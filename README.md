@@ -1,0 +1,2 @@
+# InceptiX
+Simulate. Predict. Monetize
