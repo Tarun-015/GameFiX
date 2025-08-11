@@ -13,6 +13,16 @@ Country names with there code
 
 Data fetched from youtube api call.
 
+For running code in ur system ->
+
+pip install google-api-python-client
+
+pip install pandas
+
+pip install isodate
+
+pip install pycountry
+
 
 
 
@@ -90,3 +100,4 @@ K/D Ratio – Kill-to-death ratio of the winning team.
 WinRate(%) – Win percentage of the winning team.
 
 [Source :: dummy data]
+
