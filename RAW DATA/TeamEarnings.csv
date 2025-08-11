@@ -1,0 +1,1001 @@
+ID,Game,Tournament,Region,WinningTeam,MVP,PrizePool(USD),PeakViewers,Duration(Days),Year,MapsPlayed,MapsWon,Kills,K/D Ratio,WinRate(%)
+1,Fortnite,BLAST Premier World Final 2025,MENA,T1,TenZ,12360630,3884413,8,2024,4,4,288,1.58,100
+2,Dota 2,Fortnite FNCS Global Championship 2025,EU,Cloud9,Sh1ro,27717489,799863,4,2023,5,4,254,0.97,80
+3,PUBG Mobile,PUBG Mobile World Cup 2025,NA,Astralis,TenZ,3504596,3551453,7,2024,7,3,277,1.1,42.86
+4,Counter-Strike 2,Valorant Champions 2025,OCE,Sentinels,Leaf,21314462,2807778,10,2024,5,2,282,1.09,40
+5,Counter-Strike 2,LoL Worlds 2024,NA,Team Liquid,ZywOo,19347201,3877616,8,2023,5,5,144,1.18,100
+6,Valorant,LoL Worlds 2024,MENA,FaZe Clan,NiKo,4689917,1127319,10,2023,7,1,236,1.31,14.29
+7,League of Legends,LoL Worlds 2024,NA,Team Liquid,Sh1ro,12548760,704865,4,2025,5,3,133,1.34,60
+8,League of Legends,The International 2025,SA,Sentinels,Keria,34245917,135436,8,2024,6,1,189,1.1,16.67
+9,Counter-Strike 2,PUBG Mobile World Cup 2025,EU,Natus Vincere,s1mple,1784080,2778574,13,2025,4,2,213,1.15,50
+10,Valorant,LoL Worlds 2024,OCE,Sentinels,TenZ,25445851,4801239,8,2024,7,7,98,1.11,100
+11,Fortnite,Fortnite FNCS Global Championship 2024,OCE,Fnatic,Ana,37199038,4819654,11,2025,7,2,200,1.07,28.57
+12,Dota 2,Fortnite FNCS Global Championship 2024,SA,Paper Rex,ShowMaker,820229,669283,7,2024,3,3,91,1.28,100
+13,Dota 2,Valorant Champions 2025,SA,FaZe Clan,b1t,3501252,1096576,11,2025,4,1,247,1.07,25
+14,PUBG Mobile,The International 2025,EU,Evil Geniuses,s1mple,19190252,2070453,7,2023,3,2,244,1.14,66.67
+15,PUBG Mobile,Valorant Champions 2024,SA,G2 Esports,ShowMaker,15711685,4151271,7,2025,4,1,258,1.37,25
+16,Dota 2,Valorant Champions 2024,NA,Sentinels,Faker,8779503,2587698,14,2025,7,3,274,0.93,42.86
+17,PUBG Mobile,LoL Worlds 2024,OCE,OG,TenZ,23758107,2783294,8,2023,6,5,280,0.82,83.33
+18,League of Legends,Fortnite FNCS Global Championship 2024,EU,Team Spirit,Keria,4269542,1397356,6,2023,7,5,159,1.41,71.43
+19,PUBG Mobile,The International 2025,MENA,Vitality,Ana,13706485,1253706,3,2023,5,1,185,1.35,20
+20,Dota 2,BLAST Premier World Final 2024,OCE,Fnatic,Sh1ro,39521968,4406665,11,2025,4,2,188,1.58,50
+21,Valorant,Valorant Champions 2025,MENA,T1,Keria,10829851,4667846,6,2023,3,1,283,1.03,33.33
+22,Fortnite,The International 2024,OCE,Paper Rex,NiKo,15494150,2033524,7,2023,4,1,195,1.21,25
+23,Counter-Strike 2,PUBG Mobile World Cup 2024,EU,Fnatic,TenZ,3787714,2813540,13,2023,6,4,286,1.21,66.67
+24,PUBG Mobile,The International 2025,OCE,Fnatic,Keria,4560384,3154041,12,2023,7,6,175,1.34,85.71
+25,PUBG Mobile,Fortnite FNCS Global Championship 2025,OCE,Astralis,s1mple,5862152,3911203,4,2025,6,2,275,1.16,33.33
+26,League of Legends,BLAST Premier World Final 2024,EU,Evil Geniuses,Aspas,24064802,3506653,4,2023,3,2,172,1.51,66.67
+27,Dota 2,Valorant Champions 2024,OCE,Team Liquid,Nisha,19409275,4178520,13,2025,6,4,74,1.01,66.67
+28,Counter-Strike 2,BLAST Premier World Final 2024,ASIA,Fnatic,Leaf,794400,1961056,5,2025,4,4,207,1.07,100
+29,League of Legends,The International 2024,OCE,Cloud9,Faker,29233225,630410,6,2023,5,1,85,1.25,20
+30,League of Legends,BLAST Premier World Final 2024,OCE,T1,Aspas,26535108,3113605,11,2024,5,2,260,0.81,40
+31,PUBG Mobile,BLAST Premier World Final 2024,SA,Fnatic,Faker,39599888,4310852,4,2024,6,1,293,0.88,16.67
+32,PUBG Mobile,The International 2024,OCE,Cloud9,Leaf,36710196,1604579,8,2024,5,3,271,1.38,60
+33,Counter-Strike 2,PUBG Mobile World Cup 2025,SA,Evil Geniuses,Boombl4,9391671,2181810,14,2025,7,6,149,1.41,85.71
+34,Valorant,Valorant Champions 2024,NA,Cloud9,ShowMaker,32291335,1639515,6,2023,7,7,62,0.89,100
+35,Dota 2,The International 2025,ASIA,Paper Rex,Derke,16700947,3582925,11,2024,5,4,281,1.22,80
+36,Valorant,The International 2024,OCE,Team Spirit,Aspas,34532694,2972294,7,2023,5,3,130,1.12,60
+37,Fortnite,Valorant Champions 2025,ASIA,Paper Rex,Sh1ro,21793637,748311,8,2025,6,2,174,0.84,33.33
+38,Valorant,LoL Worlds 2025,NA,G2 Esports,Nisha,30669590,1643273,11,2025,7,6,107,1.23,85.71
+39,PUBG Mobile,The International 2024,MENA,T1,Faker,36281900,1517124,4,2025,4,3,248,0.98,75
+40,Dota 2,BLAST Premier World Final 2025,MENA,Cloud9,Aspas,5447761,2942617,8,2024,5,5,223,1.38,100
+41,Counter-Strike 2,PUBG Mobile World Cup 2025,MENA,T1,Derke,32199788,2967828,8,2025,3,2,288,1.6,66.67
+42,League of Legends,Valorant Champions 2025,NA,G2 Esports,Aspas,14288028,1974706,12,2024,4,1,300,1.07,25
+43,PUBG Mobile,LoL Worlds 2024,NA,100 Thieves,Aspas,13923847,125594,7,2024,4,2,293,1.18,50
+44,PUBG Mobile,BLAST Premier World Final 2024,OCE,Paper Rex,Nisha,3411367,4394547,11,2024,7,5,61,1.06,71.43
+45,Dota 2,Valorant Champions 2025,SA,Vitality,b1t,28800474,1402310,6,2025,7,6,226,1.54,85.71
+46,PUBG Mobile,LoL Worlds 2024,EU,Fnatic,ZywOo,26599477,1319543,3,2023,3,2,114,0.87,66.67
+47,Counter-Strike 2,The International 2024,NA,Paper Rex,ZywOo,20497367,4980252,6,2024,6,5,138,1.05,83.33
+48,Fortnite,Fortnite FNCS Global Championship 2025,MENA,100 Thieves,Derke,19671968,4612080,10,2025,6,5,225,1.17,83.33
+49,Fortnite,Valorant Champions 2025,ASIA,T1,ShowMaker,22793932,4341528,4,2023,6,3,260,0.96,50
+50,League of Legends,Valorant Champions 2024,EU,FaZe Clan,Aspas,33589367,1966938,11,2025,7,6,224,0.87,85.71
+51,Valorant,LoL Worlds 2025,NA,Team Spirit,Keria,38997012,3078781,6,2025,7,1,184,1.21,14.29
+52,Valorant,PUBG Mobile World Cup 2025,NA,G2 Esports,TenZ,15558304,2798968,5,2023,5,4,102,1.53,80
+53,Valorant,The International 2025,OCE,Team Liquid,ZywOo,26556412,2490333,9,2024,6,3,208,1.57,50
+54,Dota 2,LoL Worlds 2025,ASIA,T1,ZywOo,37349913,3542654,3,2023,4,3,188,1.34,75
+55,Fortnite,BLAST Premier World Final 2024,MENA,Vitality,Sh1ro,35437106,4924090,10,2024,4,1,198,1.11,25
+56,Dota 2,The International 2025,NA,Astralis,Faker,1685915,1439014,9,2024,3,2,279,1.2,66.67
+57,Fortnite,LoL Worlds 2024,MENA,Team Liquid,b1t,37556826,4141202,4,2023,4,1,210,1.17,25
+58,PUBG Mobile,Valorant Champions 2024,NA,Vitality,Derke,5930012,3885737,6,2025,5,5,104,1.31,100
+59,Fortnite,BLAST Premier World Final 2024,OCE,Evil Geniuses,Faker,21444912,538832,9,2025,7,1,255,0.96,14.29
+60,PUBG Mobile,PUBG Mobile World Cup 2025,EU,Natus Vincere,Leaf,2246289,1728921,13,2025,7,4,225,1.34,57.14
+61,Valorant,Fortnite FNCS Global Championship 2024,EU,FaZe Clan,Sh1ro,5062673,2598300,8,2023,5,3,266,0.81,60
+62,Counter-Strike 2,Valorant Champions 2024,MENA,Sentinels,TenZ,27544676,4925629,12,2024,5,5,231,1.06,100
+63,League of Legends,PUBG Mobile World Cup 2025,OCE,Astralis,TenZ,18893309,4390965,5,2024,6,4,224,1.45,66.67
+64,PUBG Mobile,BLAST Premier World Final 2024,OCE,OG,Sh1ro,1469846,3872704,5,2025,3,1,112,1.3,33.33
+65,Valorant,PUBG Mobile World Cup 2024,OCE,Team Spirit,Boombl4,26422582,3490150,12,2024,4,2,104,1.48,50
+66,PUBG Mobile,Valorant Champions 2024,SA,Team Liquid,ZywOo,21400506,2548610,8,2023,4,3,254,1.03,75
+67,League of Legends,The International 2025,OCE,Vitality,Aspas,4157093,3810743,5,2023,6,2,236,1.47,33.33
+68,League of Legends,LoL Worlds 2024,SA,OG,ShowMaker,25483638,1646386,3,2023,6,3,226,1.08,50
+69,Counter-Strike 2,Valorant Champions 2025,ASIA,Natus Vincere,Sh1ro,26633426,2749560,6,2023,4,3,300,0.91,75
+70,League of Legends,Fortnite FNCS Global Championship 2025,MENA,Evil Geniuses,s1mple,30570216,2758971,3,2025,5,5,229,0.82,100
+71,Dota 2,LoL Worlds 2025,NA,Natus Vincere,Sh1ro,19566103,4582640,14,2024,5,4,55,0.95,80
+72,Counter-Strike 2,Fortnite FNCS Global Championship 2025,MENA,T1,Keria,17433357,439546,10,2025,5,4,224,1.07,80
+73,League of Legends,The International 2024,MENA,100 Thieves,Derke,10088079,2283028,6,2024,4,2,85,1.36,50
+74,Dota 2,The International 2025,OCE,Team Liquid,Derke,7141944,4092539,5,2025,5,1,277,1.49,20
+75,PUBG Mobile,BLAST Premier World Final 2025,MENA,OG,NiKo,2340690,3103773,6,2024,5,5,101,1.44,100
+76,Dota 2,BLAST Premier World Final 2025,ASIA,Sentinels,Aspas,29390287,3047296,11,2024,3,2,183,1.43,66.67
+77,League of Legends,BLAST Premier World Final 2024,ASIA,Paper Rex,NiKo,36327922,3073342,9,2025,3,3,166,1.4,100
+78,Counter-Strike 2,The International 2025,NA,OG,Faker,13519313,4121211,4,2023,6,1,260,0.96,16.67
+79,Fortnite,PUBG Mobile World Cup 2024,EU,Team Liquid,Boombl4,33228400,3572081,6,2023,4,1,196,0.94,25
+80,League of Legends,BLAST Premier World Final 2024,EU,OG,Sh1ro,16516427,1463767,4,2024,5,3,173,1.41,60
+81,Valorant,Fortnite FNCS Global Championship 2024,OCE,Natus Vincere,Ana,14024172,174738,14,2023,3,3,244,1.4,100
+82,PUBG Mobile,Fortnite FNCS Global Championship 2025,OCE,FaZe Clan,Derke,27245257,4286172,6,2024,3,3,130,1.52,100
+83,League of Legends,BLAST Premier World Final 2025,ASIA,G2 Esports,Boombl4,28603374,391123,10,2025,5,3,82,1.01,60
+84,League of Legends,PUBG Mobile World Cup 2024,MENA,OG,Boombl4,6414496,2751902,14,2024,6,1,214,1.07,16.67
+85,Valorant,LoL Worlds 2024,NA,G2 Esports,Keria,13638393,3727114,4,2023,3,3,295,0.9,100
+86,PUBG Mobile,LoL Worlds 2024,MENA,Natus Vincere,Derke,24175045,51685,5,2023,3,3,228,1.07,100
+87,PUBG Mobile,Valorant Champions 2024,EU,Cloud9,Boombl4,23447092,4798275,8,2025,6,3,276,1.39,50
+88,PUBG Mobile,PUBG Mobile World Cup 2025,SA,Vitality,ShowMaker,4286040,1087671,11,2025,5,2,265,1.48,40
+89,Counter-Strike 2,Valorant Champions 2025,SA,Fnatic,b1t,24154456,2895343,9,2025,7,2,114,1.17,28.57
+90,Dota 2,BLAST Premier World Final 2025,MENA,G2 Esports,b1t,29094171,2798107,11,2023,3,2,143,0.94,66.67
+91,League of Legends,LoL Worlds 2024,MENA,Evil Geniuses,b1t,22514772,1529451,14,2025,6,3,188,1.15,50
+92,Valorant,Fortnite FNCS Global Championship 2024,ASIA,OG,TenZ,25640342,3404620,13,2025,4,3,50,1.02,75
+93,Dota 2,BLAST Premier World Final 2024,OCE,Team Spirit,ShowMaker,7286330,2462333,6,2023,6,2,180,1.52,33.33
+94,Fortnite,Fortnite FNCS Global Championship 2024,OCE,T1,b1t,36842278,4475987,13,2025,7,1,129,1.59,14.29
+95,Fortnite,BLAST Premier World Final 2025,NA,FaZe Clan,Boombl4,39090363,2655309,11,2023,7,4,90,0.93,57.14
+96,League of Legends,Fortnite FNCS Global Championship 2024,NA,Astralis,NiKo,2825047,1906964,3,2024,3,1,214,1.4,33.33
+97,Fortnite,LoL Worlds 2025,EU,Paper Rex,TenZ,1234585,4759136,13,2024,6,5,223,1.6,83.33
+98,Counter-Strike 2,PUBG Mobile World Cup 2025,MENA,FaZe Clan,NiKo,9178514,875934,13,2023,3,1,136,1.43,33.33
+99,PUBG Mobile,LoL Worlds 2025,EU,Vitality,NiKo,37928858,3792414,12,2023,7,6,216,0.94,85.71
+100,Valorant,Fortnite FNCS Global Championship 2025,EU,Sentinels,Aspas,13610198,313479,11,2025,3,1,219,1.06,33.33
+101,Fortnite,LoL Worlds 2025,ASIA,100 Thieves,ShowMaker,16728170,3061640,8,2025,3,1,194,1.54,33.33
+102,Valorant,PUBG Mobile World Cup 2024,MENA,Evil Geniuses,b1t,4984020,2544462,12,2023,7,2,201,1,28.57
+103,Dota 2,The International 2025,MENA,Natus Vincere,Aspas,22330043,4672063,12,2025,7,6,296,1.06,85.71
+104,Counter-Strike 2,PUBG Mobile World Cup 2024,SA,OG,Aspas,25473975,155057,11,2023,3,1,242,1.09,33.33
+105,Dota 2,The International 2024,NA,Vitality,NiKo,27836209,3905519,5,2024,4,2,214,1.44,50
+106,Counter-Strike 2,Valorant Champions 2024,ASIA,100 Thieves,Derke,13826079,167379,9,2025,3,3,85,0.9,100
+107,Counter-Strike 2,Fortnite FNCS Global Championship 2025,EU,T1,ZywOo,15523955,1194046,3,2025,3,1,245,1.43,33.33
+108,Fortnite,Fortnite FNCS Global Championship 2024,EU,Cloud9,s1mple,3491086,1166870,5,2023,4,3,87,0.98,75
+109,Counter-Strike 2,PUBG Mobile World Cup 2025,OCE,Natus Vincere,s1mple,36988048,4711816,8,2023,7,4,216,1.05,57.14
+110,Counter-Strike 2,BLAST Premier World Final 2025,EU,Evil Geniuses,Boombl4,5775602,361978,7,2025,4,2,77,1.05,50
+111,Valorant,Valorant Champions 2025,OCE,100 Thieves,Boombl4,33828705,757489,8,2024,5,4,280,0.93,80
+112,Counter-Strike 2,Fortnite FNCS Global Championship 2024,MENA,100 Thieves,Boombl4,9751921,345710,8,2024,6,2,141,1.35,33.33
+113,Valorant,The International 2025,MENA,Vitality,Derke,22448276,3951556,9,2024,7,2,286,1.5,28.57
+114,Dota 2,Valorant Champions 2025,OCE,Evil Geniuses,b1t,4410563,2067571,7,2025,4,1,239,1.38,25
+115,Fortnite,LoL Worlds 2025,OCE,Evil Geniuses,Keria,9965747,225088,11,2024,6,2,110,1.54,33.33
+116,League of Legends,BLAST Premier World Final 2024,EU,T1,Nisha,34418278,2292359,8,2024,3,2,213,1.34,66.67
+117,Valorant,PUBG Mobile World Cup 2025,OCE,Astralis,Sh1ro,33935099,4551561,4,2025,7,2,269,0.85,28.57
+118,PUBG Mobile,Valorant Champions 2024,ASIA,Astralis,TenZ,9506151,3642298,13,2023,7,6,239,1.13,85.71
+119,Valorant,Fortnite FNCS Global Championship 2024,NA,Fnatic,Nisha,26202488,2759545,9,2025,5,5,205,0.96,100
+120,Counter-Strike 2,The International 2025,MENA,OG,ShowMaker,11709650,3947860,5,2024,6,5,249,1.34,83.33
+121,Fortnite,LoL Worlds 2025,MENA,Evil Geniuses,Ana,36049115,1256853,9,2024,5,4,135,1.15,80
+122,Counter-Strike 2,BLAST Premier World Final 2024,OCE,Team Spirit,Derke,25486523,2648434,5,2023,4,3,222,1.11,75
+123,Counter-Strike 2,PUBG Mobile World Cup 2025,OCE,T1,Leaf,26413626,1142542,11,2023,4,1,248,1.32,25
+124,Fortnite,Valorant Champions 2024,NA,Fnatic,b1t,19310701,1226418,3,2024,3,1,166,1.58,33.33
+125,Fortnite,BLAST Premier World Final 2024,MENA,100 Thieves,Derke,29336435,683924,11,2024,7,1,230,0.94,14.29
+126,Dota 2,Valorant Champions 2024,NA,Team Spirit,ZywOo,38662229,1405586,10,2023,4,4,263,1.37,100
+127,Valorant,PUBG Mobile World Cup 2025,MENA,Cloud9,Nisha,1859096,444612,8,2023,5,2,196,0.98,40
+128,Valorant,The International 2025,NA,Fnatic,b1t,19674152,3731905,11,2025,7,3,131,1.43,42.86
+129,Dota 2,Fortnite FNCS Global Championship 2025,ASIA,Paper Rex,Aspas,15998291,52719,12,2023,4,3,196,0.99,75
+130,PUBG Mobile,LoL Worlds 2025,MENA,Evil Geniuses,Faker,8825724,2768549,3,2023,4,3,160,1.44,75
+131,PUBG Mobile,LoL Worlds 2024,OCE,Fnatic,Boombl4,11380849,2392938,4,2024,6,2,147,1.19,33.33
+132,Counter-Strike 2,Valorant Champions 2025,MENA,Sentinels,ShowMaker,4518584,470660,10,2024,3,1,265,1.19,33.33
+133,Valorant,Valorant Champions 2025,MENA,100 Thieves,Sh1ro,9687887,206817,11,2024,3,3,275,1.46,100
+134,Fortnite,PUBG Mobile World Cup 2024,EU,T1,Boombl4,9201223,1632584,10,2025,6,6,65,1.43,100
+135,League of Legends,Valorant Champions 2024,EU,Astralis,b1t,13221020,1797875,6,2024,3,1,109,1.01,33.33
+136,Fortnite,Fortnite FNCS Global Championship 2024,MENA,Sentinels,Faker,4659650,3138262,10,2024,5,5,64,0.91,100
+137,Valorant,BLAST Premier World Final 2024,EU,Vitality,TenZ,20532956,1596426,4,2025,3,3,193,1.55,100
+138,Fortnite,The International 2024,MENA,T1,ShowMaker,11998116,2824096,13,2025,4,4,57,0.86,100
+139,Dota 2,Fortnite FNCS Global Championship 2025,SA,Natus Vincere,Keria,30923493,617600,5,2025,3,2,283,0.88,66.67
+140,PUBG Mobile,The International 2025,NA,Sentinels,b1t,21411916,3673651,9,2023,6,1,198,1.2,16.67
+141,Fortnite,PUBG Mobile World Cup 2024,OCE,OG,Leaf,24228681,3536556,4,2024,7,5,257,1.07,71.43
+142,PUBG Mobile,Fortnite FNCS Global Championship 2025,SA,G2 Esports,Aspas,31772595,3275071,6,2023,3,1,108,1.37,33.33
+143,PUBG Mobile,LoL Worlds 2024,NA,Cloud9,Boombl4,37030103,1045728,11,2025,7,1,180,1.6,14.29
+144,League of Legends,LoL Worlds 2025,MENA,Evil Geniuses,Sh1ro,4551314,1093237,9,2025,6,1,227,1.24,16.67
+145,League of Legends,Valorant Champions 2025,MENA,100 Thieves,Leaf,8849565,3095414,10,2023,7,6,273,1.31,85.71
+146,Fortnite,LoL Worlds 2025,ASIA,Evil Geniuses,Nisha,16561788,1388898,14,2025,6,6,283,1.59,100
+147,Fortnite,PUBG Mobile World Cup 2024,MENA,Vitality,ZywOo,23376856,3838400,7,2025,7,7,213,1.27,100
+148,PUBG Mobile,PUBG Mobile World Cup 2024,MENA,Evil Geniuses,Boombl4,12824576,3632625,10,2023,7,3,283,1.43,42.86
+149,Fortnite,The International 2024,ASIA,Astralis,Nisha,5428327,226146,7,2025,4,3,281,1.31,75
+150,League of Legends,Valorant Champions 2025,ASIA,Cloud9,s1mple,16739562,1407353,7,2024,3,3,96,1.01,100
+151,PUBG Mobile,PUBG Mobile World Cup 2024,SA,FaZe Clan,Aspas,29717639,93021,5,2023,5,3,241,1.17,60
+152,Dota 2,PUBG Mobile World Cup 2025,EU,100 Thieves,Derke,10822504,3027698,12,2025,5,3,281,1.3,60
+153,PUBG Mobile,BLAST Premier World Final 2025,SA,Astralis,Aspas,28319911,1843361,4,2025,4,4,71,1.58,100
+154,Dota 2,LoL Worlds 2025,SA,G2 Esports,Sh1ro,7021008,2414885,14,2023,7,5,161,1.08,71.43
+155,Fortnite,The International 2025,ASIA,T1,s1mple,20600038,1737831,4,2024,5,5,220,1.24,100
+156,Fortnite,LoL Worlds 2024,NA,T1,ZywOo,35215132,565174,11,2025,4,4,87,0.94,100
+157,Valorant,LoL Worlds 2025,MENA,OG,Derke,25259277,4782479,8,2023,4,2,152,1.54,50
+158,League of Legends,The International 2025,NA,T1,b1t,16484362,4791232,13,2023,3,3,259,1.39,100
+159,PUBG Mobile,Fortnite FNCS Global Championship 2024,SA,Paper Rex,Faker,35098464,3118962,6,2024,7,1,298,1.57,14.29
+160,Dota 2,PUBG Mobile World Cup 2024,SA,100 Thieves,b1t,28943254,587939,5,2024,4,2,87,1.01,50
+161,PUBG Mobile,Valorant Champions 2025,EU,Sentinels,Nisha,20610718,2510908,8,2025,4,3,242,1.12,75
+162,League of Legends,LoL Worlds 2024,SA,100 Thieves,Derke,21602826,4867382,4,2023,6,2,273,1.58,33.33
+163,League of Legends,PUBG Mobile World Cup 2024,OCE,Fnatic,b1t,30910924,3030585,9,2024,3,2,235,1.23,66.67
+164,Dota 2,The International 2025,SA,Team Spirit,Ana,38314359,4883449,5,2023,5,2,170,0.87,40
+165,Fortnite,PUBG Mobile World Cup 2025,SA,T1,Ana,2283903,4923292,7,2025,4,4,260,1.32,100
+166,Valorant,BLAST Premier World Final 2025,SA,Team Liquid,TenZ,12528424,3018352,10,2023,7,4,291,1.14,57.14
+167,Counter-Strike 2,The International 2024,OCE,G2 Esports,b1t,39314575,4244301,8,2025,6,3,117,0.92,50
+168,Valorant,Valorant Champions 2025,ASIA,Fnatic,Derke,6940095,1464219,10,2023,6,2,51,1.51,33.33
+169,League of Legends,Valorant Champions 2025,OCE,Astralis,Keria,14370212,2869363,5,2024,5,4,183,1.32,80
+170,Counter-Strike 2,BLAST Premier World Final 2024,MENA,OG,Nisha,27350688,4569667,3,2023,6,6,206,1.32,100
+171,PUBG Mobile,The International 2024,MENA,Cloud9,Faker,34891574,4071061,10,2024,6,2,181,1.2,33.33
+172,PUBG Mobile,Fortnite FNCS Global Championship 2024,ASIA,G2 Esports,Derke,33389509,495596,7,2024,5,4,106,1.6,80
+173,League of Legends,Valorant Champions 2025,EU,Sentinels,ShowMaker,11883226,2577716,3,2025,5,4,242,1.08,80
+174,Counter-Strike 2,Fortnite FNCS Global Championship 2025,ASIA,Astralis,b1t,20960602,2848042,7,2024,6,2,118,1.38,33.33
+175,PUBG Mobile,BLAST Premier World Final 2024,OCE,FaZe Clan,Nisha,2110238,3498037,3,2025,3,3,216,0.97,100
+176,Valorant,Fortnite FNCS Global Championship 2025,NA,100 Thieves,ShowMaker,29349821,3513435,4,2024,4,4,181,1.16,100
+177,Dota 2,BLAST Premier World Final 2024,MENA,100 Thieves,Faker,5943503,201886,3,2024,3,3,99,0.88,100
+178,Dota 2,Fortnite FNCS Global Championship 2024,MENA,FaZe Clan,Boombl4,31426519,798382,9,2025,7,1,150,1.27,14.29
+179,Valorant,Valorant Champions 2024,NA,Paper Rex,s1mple,7037171,4623033,6,2025,3,3,103,1.48,100
+180,PUBG Mobile,PUBG Mobile World Cup 2025,SA,100 Thieves,ZywOo,4070875,929329,14,2023,3,1,286,0.84,33.33
+181,Counter-Strike 2,PUBG Mobile World Cup 2025,EU,Fnatic,Nisha,19858530,3312768,6,2025,3,3,194,1.51,100
+182,Valorant,LoL Worlds 2025,MENA,Natus Vincere,Leaf,7882105,2235242,7,2023,3,1,269,1.25,33.33
+183,League of Legends,LoL Worlds 2025,EU,G2 Esports,Keria,13918103,4174494,3,2025,6,3,79,0.88,50
+184,Dota 2,PUBG Mobile World Cup 2024,OCE,Fnatic,s1mple,17157608,1926439,6,2025,6,1,266,1.51,16.67
+185,Dota 2,Valorant Champions 2025,MENA,Astralis,TenZ,11555854,3382535,7,2024,4,4,53,1.51,100
+186,PUBG Mobile,Fortnite FNCS Global Championship 2025,SA,Natus Vincere,TenZ,34609856,1637556,13,2025,3,3,271,1.21,100
+187,Fortnite,The International 2024,OCE,Astralis,TenZ,2173935,4592078,8,2023,5,3,281,0.95,60
+188,League of Legends,PUBG Mobile World Cup 2024,ASIA,Team Liquid,ShowMaker,32356379,4934254,3,2025,7,7,192,0.82,100
+189,Counter-Strike 2,BLAST Premier World Final 2025,EU,Paper Rex,Aspas,24121323,4197649,11,2023,5,5,247,0.85,100
+190,Counter-Strike 2,Fortnite FNCS Global Championship 2024,MENA,G2 Esports,ZywOo,23624625,4397213,11,2025,4,4,138,1.32,100
+191,PUBG Mobile,Valorant Champions 2025,SA,Team Liquid,ShowMaker,28553757,1018674,10,2024,3,2,297,1.13,66.67
+192,Fortnite,Fortnite FNCS Global Championship 2025,MENA,100 Thieves,Faker,32635876,3730030,4,2024,4,3,193,0.89,75
+193,League of Legends,PUBG Mobile World Cup 2025,NA,Vitality,b1t,18517077,926638,8,2024,5,5,228,0.9,100
+194,Valorant,PUBG Mobile World Cup 2024,ASIA,Paper Rex,Derke,19404479,4286688,11,2025,5,3,173,1.35,60
+195,League of Legends,Fortnite FNCS Global Championship 2025,MENA,Team Spirit,Keria,2228215,2127412,5,2023,4,1,144,0.97,25
+196,League of Legends,Valorant Champions 2025,SA,100 Thieves,Boombl4,28141389,730693,7,2023,4,4,155,1.53,100
+197,PUBG Mobile,Fortnite FNCS Global Championship 2024,MENA,OG,Nisha,15032426,982635,3,2023,7,3,262,1.49,42.86
+198,League of Legends,Valorant Champions 2024,MENA,Sentinels,ShowMaker,16244064,1711887,11,2025,3,3,225,1.01,100
+199,Fortnite,The International 2025,ASIA,OG,Faker,37199484,4391821,4,2023,6,5,67,1.45,83.33
+200,Dota 2,The International 2025,NA,Team Liquid,NiKo,22199213,1066477,7,2025,4,4,211,1.42,100
+201,Fortnite,Valorant Champions 2024,NA,Paper Rex,Ana,24933844,1549770,9,2023,7,6,249,1.16,85.71
+202,League of Legends,BLAST Premier World Final 2025,SA,Fnatic,Sh1ro,6462152,1416521,8,2024,6,1,129,1.44,16.67
+203,Dota 2,BLAST Premier World Final 2025,EU,Team Liquid,s1mple,35890630,607221,7,2025,6,4,102,1.57,66.67
+204,Counter-Strike 2,PUBG Mobile World Cup 2025,NA,Team Spirit,Nisha,5957554,3100443,5,2023,4,3,173,1.33,75
+205,Dota 2,LoL Worlds 2024,OCE,OG,Sh1ro,27752671,2329178,11,2024,4,3,215,1.45,75
+206,Dota 2,PUBG Mobile World Cup 2024,NA,Team Liquid,Faker,21442691,371863,10,2023,7,3,299,1.12,42.86
+207,Counter-Strike 2,LoL Worlds 2025,OCE,Cloud9,ShowMaker,25224764,1822425,5,2023,6,1,278,1.58,16.67
+208,Counter-Strike 2,LoL Worlds 2024,MENA,FaZe Clan,NiKo,11206531,1324177,9,2023,7,6,210,0.9,85.71
+209,League of Legends,LoL Worlds 2025,NA,100 Thieves,ZywOo,3036911,1509105,3,2024,6,5,135,1.08,83.33
+210,Dota 2,The International 2024,MENA,Fnatic,b1t,17355093,3860613,13,2023,7,2,237,1.22,28.57
+211,Valorant,PUBG Mobile World Cup 2025,SA,FaZe Clan,b1t,36866425,4217930,7,2023,5,3,111,1.17,60
+212,League of Legends,Fortnite FNCS Global Championship 2025,SA,Natus Vincere,Boombl4,12981032,2851194,4,2025,4,2,136,1.24,50
+213,Valorant,BLAST Premier World Final 2024,SA,Team Liquid,TenZ,8032870,1197650,13,2025,6,2,79,1.32,33.33
+214,Counter-Strike 2,PUBG Mobile World Cup 2025,OCE,OG,s1mple,6541161,1396950,5,2023,7,4,283,1.45,57.14
+215,League of Legends,Valorant Champions 2024,OCE,Sentinels,Boombl4,32605553,1760161,5,2023,3,2,98,1.38,66.67
+216,PUBG Mobile,BLAST Premier World Final 2024,MENA,FaZe Clan,ShowMaker,30020913,2562006,5,2025,4,1,264,0.95,25
+217,PUBG Mobile,BLAST Premier World Final 2025,MENA,OG,Keria,13049961,517953,5,2024,5,2,187,1.16,40
+218,PUBG Mobile,PUBG Mobile World Cup 2025,SA,Fnatic,Leaf,29232191,928425,14,2024,6,1,156,0.91,16.67
+219,Fortnite,Fortnite FNCS Global Championship 2025,NA,OG,Aspas,8020637,3325300,14,2024,6,1,275,1.3,16.67
+220,Dota 2,The International 2025,ASIA,Evil Geniuses,Nisha,37908788,910459,4,2023,7,6,273,1,85.71
+221,League of Legends,PUBG Mobile World Cup 2024,ASIA,G2 Esports,Derke,10427640,1428793,9,2023,3,1,247,1.16,33.33
+222,League of Legends,PUBG Mobile World Cup 2025,MENA,Vitality,Keria,25150831,1493174,10,2024,6,3,85,0.99,50
+223,Counter-Strike 2,Valorant Champions 2024,OCE,Astralis,Leaf,6235205,4040574,6,2025,7,2,56,1.07,28.57
+224,Counter-Strike 2,BLAST Premier World Final 2025,SA,Astralis,ShowMaker,39800220,2719505,14,2023,3,2,216,1.32,66.67
+225,Fortnite,BLAST Premier World Final 2024,NA,100 Thieves,Leaf,21256868,1674146,13,2023,5,3,82,1.4,60
+226,Counter-Strike 2,Fortnite FNCS Global Championship 2025,OCE,Paper Rex,Sh1ro,16299897,4045434,12,2023,6,4,142,1.49,66.67
+227,League of Legends,LoL Worlds 2024,ASIA,Astralis,Ana,32333705,1226608,6,2025,7,1,224,0.95,14.29
+228,League of Legends,The International 2025,OCE,Cloud9,NiKo,6413117,2231115,3,2025,5,2,270,1.28,40
+229,Valorant,PUBG Mobile World Cup 2025,EU,FaZe Clan,Leaf,10645889,3715204,6,2024,7,5,151,1.07,71.43
+230,Dota 2,Valorant Champions 2025,NA,G2 Esports,Leaf,18683501,1700210,12,2024,7,2,227,1.26,28.57
+231,Dota 2,BLAST Premier World Final 2024,NA,100 Thieves,Ana,39503172,4770039,5,2025,7,6,287,1.51,85.71
+232,Fortnite,The International 2025,OCE,Paper Rex,Ana,18996217,203034,11,2024,6,4,102,1.48,66.67
+233,Valorant,Fortnite FNCS Global Championship 2024,OCE,Fnatic,Aspas,14518011,4508637,12,2024,3,3,118,1.17,100
+234,Dota 2,BLAST Premier World Final 2024,SA,Natus Vincere,ZywOo,22907693,4212681,6,2024,3,3,235,1.21,100
+235,League of Legends,LoL Worlds 2024,SA,Cloud9,Leaf,20361153,1464798,3,2025,6,3,260,1.5,50
+236,League of Legends,The International 2024,SA,Fnatic,Leaf,25707256,2916662,11,2025,3,2,235,1.22,66.67
+237,Dota 2,Valorant Champions 2024,NA,OG,Nisha,10697771,3698830,12,2025,5,1,52,1.56,20
+238,PUBG Mobile,PUBG Mobile World Cup 2025,SA,FaZe Clan,b1t,780842,3753827,13,2023,6,3,267,1.37,50
+239,Counter-Strike 2,The International 2025,SA,Astralis,b1t,28590055,1873992,4,2023,6,5,103,1.3,83.33
+240,Valorant,Valorant Champions 2024,OCE,Natus Vincere,Nisha,9786171,3433163,6,2025,5,4,219,1.17,80
+241,Valorant,BLAST Premier World Final 2025,NA,Sentinels,Faker,16167692,4991916,7,2025,5,2,200,1.21,40
+242,Valorant,Valorant Champions 2025,ASIA,Paper Rex,Keria,29432199,342475,9,2024,5,2,207,1.02,40
+243,PUBG Mobile,LoL Worlds 2024,SA,Sentinels,Nisha,3618786,4469694,13,2023,6,2,185,0.94,33.33
+244,Dota 2,BLAST Premier World Final 2024,NA,T1,NiKo,13433458,2859164,6,2024,5,3,70,1.23,60
+245,Fortnite,The International 2024,SA,Fnatic,Ana,14749698,2074174,7,2023,6,5,116,1.5,83.33
+246,Counter-Strike 2,Fortnite FNCS Global Championship 2025,ASIA,T1,TenZ,29610609,3770935,9,2024,4,2,116,1.32,50
+247,Dota 2,PUBG Mobile World Cup 2024,EU,Natus Vincere,Faker,22190367,4948118,4,2023,6,5,100,1.41,83.33
+248,League of Legends,Valorant Champions 2024,MENA,Astralis,s1mple,37596256,1189529,8,2024,4,1,184,1.42,25
+249,PUBG Mobile,PUBG Mobile World Cup 2025,OCE,Vitality,Boombl4,30847156,282254,12,2025,6,5,184,0.9,83.33
+250,Valorant,LoL Worlds 2024,MENA,Vitality,Leaf,33454778,1643070,9,2025,3,2,156,1.06,66.67
+251,Fortnite,LoL Worlds 2024,ASIA,Sentinels,Ana,21391391,4804922,13,2025,5,3,198,0.8,60
+252,Counter-Strike 2,BLAST Premier World Final 2025,SA,Team Spirit,ShowMaker,7712195,2763646,5,2025,5,4,139,0.87,80
+253,PUBG Mobile,Fortnite FNCS Global Championship 2025,EU,Astralis,ShowMaker,23536839,3352868,13,2023,6,2,50,1.28,33.33
+254,Dota 2,The International 2025,MENA,T1,Faker,12509553,163045,3,2023,6,4,76,1.31,66.67
+255,Dota 2,The International 2024,SA,Fnatic,ShowMaker,38839411,295714,14,2024,4,1,95,1.45,25
+256,Valorant,The International 2024,MENA,Natus Vincere,TenZ,2603171,4561187,3,2024,3,2,273,0.94,66.67
+257,Fortnite,Valorant Champions 2024,OCE,Astralis,Nisha,25379295,4566598,8,2023,5,3,242,1.41,60
+258,Counter-Strike 2,BLAST Premier World Final 2025,EU,Cloud9,Boombl4,19685123,4791390,11,2023,5,3,113,0.95,60
+259,Fortnite,PUBG Mobile World Cup 2024,EU,Cloud9,Boombl4,37829147,4915759,12,2025,4,2,138,1.23,50
+260,PUBG Mobile,PUBG Mobile World Cup 2024,MENA,Paper Rex,Keria,4427241,2425794,7,2023,6,6,103,1.1,100
+261,Dota 2,The International 2025,OCE,Natus Vincere,Ana,23767028,3070588,12,2023,3,1,201,1.08,33.33
+262,PUBG Mobile,Valorant Champions 2024,NA,T1,ShowMaker,26705918,790446,14,2025,6,2,66,1.14,33.33
+263,League of Legends,BLAST Premier World Final 2025,NA,Fnatic,Ana,1577470,2189712,11,2023,6,3,58,0.98,50
+264,Valorant,BLAST Premier World Final 2024,OCE,G2 Esports,Leaf,21917007,1160830,3,2024,6,6,208,1.58,100
+265,Dota 2,The International 2025,MENA,Vitality,ShowMaker,20840315,2085866,11,2025,3,1,141,0.92,33.33
+266,League of Legends,LoL Worlds 2024,ASIA,OG,Derke,25095482,1076806,6,2024,6,6,78,1.3,100
+267,Counter-Strike 2,Valorant Champions 2025,SA,Vitality,ShowMaker,5005408,1089737,6,2023,3,3,104,0.91,100
+268,Fortnite,LoL Worlds 2024,OCE,G2 Esports,Boombl4,24381622,288538,12,2023,4,2,178,1.5,50
+269,League of Legends,PUBG Mobile World Cup 2024,NA,FaZe Clan,Sh1ro,17424208,3933598,3,2025,6,4,135,1.29,66.67
+270,Dota 2,LoL Worlds 2024,OCE,OG,Derke,37359971,3740423,6,2025,5,5,202,1.47,100
+271,Counter-Strike 2,BLAST Premier World Final 2024,ASIA,G2 Esports,Ana,30429487,4420386,9,2024,6,2,140,1.07,33.33
+272,Fortnite,Valorant Champions 2024,EU,Team Spirit,Faker,3115102,4448178,4,2025,4,2,202,1.47,50
+273,Valorant,The International 2025,MENA,Cloud9,Sh1ro,34843933,4987712,6,2025,5,1,280,1.04,20
+274,Dota 2,BLAST Premier World Final 2025,EU,G2 Esports,s1mple,36373455,4753131,3,2023,7,2,95,0.81,28.57
+275,Fortnite,The International 2024,NA,T1,Leaf,13625057,4389895,3,2023,3,2,57,0.89,66.67
+276,Dota 2,BLAST Premier World Final 2024,SA,Cloud9,Boombl4,33442914,4630611,12,2024,6,1,262,0.81,16.67
+277,Valorant,PUBG Mobile World Cup 2025,NA,T1,Faker,13479004,709017,13,2023,5,2,104,1.29,40
+278,Valorant,LoL Worlds 2025,MENA,Natus Vincere,Aspas,34146223,2587139,12,2025,7,2,107,1.31,28.57
+279,PUBG Mobile,LoL Worlds 2024,ASIA,Team Spirit,Sh1ro,18937418,1004241,5,2023,7,7,297,1.05,100
+280,PUBG Mobile,The International 2024,ASIA,FaZe Clan,Ana,20698919,4575772,6,2023,7,5,134,1.17,71.43
+281,League of Legends,LoL Worlds 2025,SA,Sentinels,ShowMaker,35234263,3186950,7,2023,7,5,196,1.08,71.43
+282,Counter-Strike 2,LoL Worlds 2025,EU,Team Spirit,Leaf,5985468,1423776,12,2025,5,4,262,0.9,80
+283,Valorant,The International 2025,OCE,Evil Geniuses,Derke,33390485,1525862,4,2025,3,3,63,1.43,100
+284,Counter-Strike 2,PUBG Mobile World Cup 2024,OCE,Astralis,Sh1ro,12759284,3781566,14,2025,3,3,118,1.44,100
+285,Fortnite,The International 2024,MENA,Natus Vincere,Aspas,11893637,4420398,10,2024,3,1,80,1.56,33.33
+286,Fortnite,Fortnite FNCS Global Championship 2024,OCE,Natus Vincere,TenZ,14968158,3129331,3,2024,5,5,285,1.55,100
+287,League of Legends,Fortnite FNCS Global Championship 2025,OCE,Cloud9,TenZ,20315211,4668044,14,2024,6,5,149,1.46,83.33
+288,League of Legends,The International 2025,EU,Team Liquid,TenZ,19108577,3950364,8,2024,5,1,289,1.19,20
+289,Fortnite,The International 2024,MENA,OG,NiKo,3726092,3145984,6,2025,7,6,250,0.81,85.71
+290,Counter-Strike 2,BLAST Premier World Final 2024,EU,100 Thieves,TenZ,8909378,452473,5,2024,7,3,289,1.59,42.86
+291,Fortnite,The International 2025,NA,Paper Rex,Boombl4,36427675,358245,13,2025,7,7,151,1.15,100
+292,Counter-Strike 2,The International 2025,MENA,Vitality,Keria,2579759,4848377,3,2025,3,1,158,1.52,33.33
+293,PUBG Mobile,BLAST Premier World Final 2025,EU,Cloud9,Sh1ro,14662393,1127990,5,2025,3,2,94,0.94,66.67
+294,Valorant,PUBG Mobile World Cup 2025,OCE,Sentinels,Sh1ro,9703034,927867,8,2024,4,2,98,0.96,50
+295,Dota 2,Valorant Champions 2024,MENA,Natus Vincere,b1t,1121517,4485697,13,2025,6,6,245,1.48,100
+296,PUBG Mobile,The International 2025,MENA,Evil Geniuses,NiKo,14673086,1951067,8,2025,7,4,126,1.59,57.14
+297,PUBG Mobile,PUBG Mobile World Cup 2024,MENA,Team Liquid,s1mple,35215129,1280190,11,2023,7,1,264,0.95,14.29
+298,Valorant,LoL Worlds 2024,SA,G2 Esports,ShowMaker,16394635,1734380,10,2025,6,3,281,1.46,50
+299,Counter-Strike 2,LoL Worlds 2024,ASIA,Team Liquid,ShowMaker,39603323,537500,4,2025,3,2,109,1.07,66.67
+300,Dota 2,Valorant Champions 2024,ASIA,Team Liquid,b1t,17060432,4644609,14,2023,3,3,244,1.25,100
+301,Fortnite,The International 2025,EU,Cloud9,ShowMaker,33738854,864710,4,2023,4,1,201,1.43,25
+302,Dota 2,Valorant Champions 2024,NA,FaZe Clan,Leaf,11601084,1849635,3,2023,3,3,76,1.07,100
+303,Counter-Strike 2,PUBG Mobile World Cup 2025,OCE,Team Spirit,TenZ,14043209,2504775,14,2025,3,3,63,1.42,100
+304,PUBG Mobile,BLAST Premier World Final 2025,ASIA,Paper Rex,NiKo,38398649,3320231,13,2025,3,2,201,1.55,66.67
+305,League of Legends,Valorant Champions 2024,SA,Natus Vincere,Leaf,33429475,74766,12,2025,4,3,292,1.26,75
+306,League of Legends,LoL Worlds 2025,MENA,Paper Rex,Derke,8796124,1834060,11,2024,6,6,172,0.98,100
+307,Counter-Strike 2,Valorant Champions 2025,EU,G2 Esports,Derke,9452762,1381949,14,2023,4,2,119,1.29,50
+308,PUBG Mobile,PUBG Mobile World Cup 2024,OCE,Sentinels,Leaf,15544348,764947,5,2023,6,4,266,0.89,66.67
+309,Counter-Strike 2,PUBG Mobile World Cup 2024,MENA,G2 Esports,Derke,3221018,1019496,11,2023,4,4,62,0.81,100
+310,League of Legends,The International 2025,OCE,Team Spirit,Sh1ro,38949190,2341382,11,2025,4,1,256,1.09,25
+311,Valorant,Valorant Champions 2025,ASIA,Evil Geniuses,ShowMaker,37697118,1689239,12,2024,3,1,167,1.39,33.33
+312,Counter-Strike 2,The International 2025,OCE,Fnatic,Sh1ro,15885366,1013413,7,2025,3,3,102,1.48,100
+313,League of Legends,The International 2025,MENA,Paper Rex,ZywOo,26309298,2445083,3,2024,3,1,116,0.89,33.33
+314,PUBG Mobile,LoL Worlds 2024,MENA,Astralis,NiKo,5902416,1221037,12,2024,6,5,253,1.56,83.33
+315,Counter-Strike 2,Valorant Champions 2024,OCE,Sentinels,Derke,18135448,2820956,4,2025,3,2,72,1.37,66.67
+316,League of Legends,PUBG Mobile World Cup 2025,ASIA,Astralis,b1t,19437663,3405658,4,2025,5,1,130,1.5,20
+317,PUBG Mobile,Valorant Champions 2024,ASIA,Astralis,Boombl4,1643051,1274246,14,2025,7,7,299,1.26,100
+318,PUBG Mobile,Valorant Champions 2024,OCE,G2 Esports,NiKo,21964291,3553932,9,2023,6,5,152,1.03,83.33
+319,PUBG Mobile,Valorant Champions 2025,SA,G2 Esports,Sh1ro,3544547,2944244,14,2023,7,1,103,1.12,14.29
+320,Counter-Strike 2,Fortnite FNCS Global Championship 2024,OCE,Cloud9,b1t,38865054,1794221,13,2023,4,2,178,1.59,50
+321,Fortnite,LoL Worlds 2025,EU,Vitality,Aspas,3048491,3419999,8,2025,5,2,59,1.11,40
+322,League of Legends,LoL Worlds 2024,NA,FaZe Clan,NiKo,37534541,2449815,12,2024,7,7,232,1,100
+323,League of Legends,BLAST Premier World Final 2025,SA,OG,b1t,17153546,3584054,6,2023,5,4,224,1.03,80
+324,Valorant,Valorant Champions 2024,SA,100 Thieves,ShowMaker,17643493,2464555,5,2023,4,4,191,1.09,100
+325,PUBG Mobile,Fortnite FNCS Global Championship 2025,NA,Natus Vincere,s1mple,37198880,1289058,10,2024,6,1,123,1.1,16.67
+326,Dota 2,Fortnite FNCS Global Championship 2025,NA,Team Spirit,ZywOo,25960470,1688560,4,2025,7,3,139,1.55,42.86
+327,Dota 2,PUBG Mobile World Cup 2025,OCE,Evil Geniuses,b1t,6685918,1150571,11,2023,7,7,177,0.88,100
+328,Counter-Strike 2,BLAST Premier World Final 2025,ASIA,Evil Geniuses,Leaf,16294477,4637699,9,2023,5,2,198,1.31,40
+329,Counter-Strike 2,The International 2024,NA,Sentinels,b1t,26073425,3298900,5,2023,5,2,197,1.2,40
+330,Counter-Strike 2,BLAST Premier World Final 2025,EU,Vitality,Aspas,38463131,2129831,5,2024,3,2,169,1.51,66.67
+331,Counter-Strike 2,BLAST Premier World Final 2024,ASIA,Evil Geniuses,Leaf,29963994,4129260,10,2025,6,6,185,0.91,100
+332,League of Legends,Fortnite FNCS Global Championship 2024,ASIA,G2 Esports,Leaf,10060291,2984147,3,2024,7,2,260,1.06,28.57
+333,League of Legends,Fortnite FNCS Global Championship 2024,NA,T1,Nisha,11245857,2762309,4,2023,3,3,231,0.88,100
+334,League of Legends,LoL Worlds 2024,EU,Team Spirit,NiKo,34283003,1421783,6,2023,6,5,276,1.34,83.33
+335,PUBG Mobile,BLAST Premier World Final 2025,ASIA,Cloud9,Keria,24033805,3162574,3,2023,5,4,59,1,80
+336,League of Legends,BLAST Premier World Final 2024,NA,Natus Vincere,Aspas,1160868,3389382,13,2023,5,2,61,1.57,40
+337,Valorant,BLAST Premier World Final 2025,EU,Team Spirit,ZywOo,4869468,3539342,8,2023,4,1,179,1.23,25
+338,Valorant,PUBG Mobile World Cup 2025,SA,Cloud9,Derke,20205185,2423065,4,2023,5,2,208,1.36,40
+339,Valorant,The International 2025,SA,Natus Vincere,Aspas,13572731,390743,6,2025,4,4,117,1.24,100
+340,Fortnite,Valorant Champions 2025,SA,Cloud9,Derke,19425618,3187987,6,2025,4,2,143,0.97,50
+341,Counter-Strike 2,The International 2024,ASIA,Cloud9,Nisha,31809415,3271566,9,2025,4,4,248,0.97,100
+342,PUBG Mobile,Fortnite FNCS Global Championship 2025,ASIA,Natus Vincere,Leaf,15243806,3613922,3,2024,6,3,153,1.47,50
+343,PUBG Mobile,BLAST Premier World Final 2025,SA,Fnatic,ShowMaker,12664165,2872486,3,2023,6,3,60,1.46,50
+344,League of Legends,Fortnite FNCS Global Championship 2024,NA,Astralis,Boombl4,27031647,1135272,12,2024,5,4,224,1.48,80
+345,League of Legends,PUBG Mobile World Cup 2025,ASIA,Team Spirit,Boombl4,5761364,1409174,10,2024,6,6,178,1.19,100
+346,League of Legends,PUBG Mobile World Cup 2024,SA,G2 Esports,Faker,27107154,745139,10,2024,5,5,91,1.03,100
+347,Dota 2,LoL Worlds 2025,SA,FaZe Clan,Nisha,9910071,560973,14,2025,4,2,266,1.25,50
+348,PUBG Mobile,BLAST Premier World Final 2024,OCE,Cloud9,Leaf,17686843,1046469,6,2024,3,2,124,0.95,66.67
+349,Counter-Strike 2,BLAST Premier World Final 2025,OCE,Natus Vincere,Aspas,9000881,994027,3,2023,3,1,292,1.27,33.33
+350,Dota 2,The International 2024,OCE,Team Liquid,ZywOo,20461015,4839488,4,2025,5,1,240,1.53,20
+351,PUBG Mobile,The International 2025,SA,Sentinels,Keria,24497298,2186241,5,2024,7,3,222,1.34,42.86
+352,Valorant,PUBG Mobile World Cup 2024,ASIA,Vitality,Keria,25057932,1615540,14,2025,6,2,69,1.4,33.33
+353,Valorant,PUBG Mobile World Cup 2025,OCE,Evil Geniuses,Faker,19550416,469482,10,2023,4,2,270,1.18,50
+354,Valorant,PUBG Mobile World Cup 2025,MENA,Vitality,Aspas,30873286,1424399,13,2024,3,3,91,0.87,100
+355,Valorant,LoL Worlds 2024,ASIA,Astralis,NiKo,37239744,3562334,6,2025,7,6,82,1.5,85.71
+356,PUBG Mobile,Fortnite FNCS Global Championship 2024,NA,G2 Esports,b1t,6217028,386797,14,2024,4,3,244,1.09,75
+357,Dota 2,BLAST Premier World Final 2025,NA,G2 Esports,Nisha,17130274,3813216,4,2024,5,2,100,1.46,40
+358,Fortnite,LoL Worlds 2025,NA,Cloud9,Sh1ro,36490436,4576522,7,2025,4,2,214,0.91,50
+359,Counter-Strike 2,PUBG Mobile World Cup 2025,ASIA,Natus Vincere,s1mple,18788174,1274644,7,2023,3,2,72,1.18,66.67
+360,PUBG Mobile,LoL Worlds 2025,NA,Natus Vincere,NiKo,8114784,3723006,11,2025,6,4,300,1.29,66.67
+361,Dota 2,BLAST Premier World Final 2025,SA,Astralis,Nisha,35371132,2828997,12,2025,3,2,92,1.55,66.67
+362,Dota 2,Fortnite FNCS Global Championship 2025,MENA,T1,Leaf,32163299,2424010,14,2024,3,3,55,1.22,100
+363,Fortnite,Valorant Champions 2024,EU,Team Liquid,Derke,19066830,2695740,4,2025,3,2,268,1.45,66.67
+364,Counter-Strike 2,Fortnite FNCS Global Championship 2025,MENA,FaZe Clan,Derke,25296945,3456554,14,2024,4,1,260,1.11,25
+365,Valorant,LoL Worlds 2024,OCE,Team Liquid,Ana,4785229,789030,13,2024,3,2,149,1.14,66.67
+366,PUBG Mobile,Valorant Champions 2024,ASIA,Astralis,Faker,21980280,2247265,13,2023,7,2,277,0.82,28.57
+367,Dota 2,Fortnite FNCS Global Championship 2024,MENA,Paper Rex,Derke,6847123,1434460,12,2025,7,4,61,1.59,57.14
+368,Fortnite,Valorant Champions 2025,ASIA,Astralis,Keria,34081503,390704,8,2023,6,4,117,1.51,66.67
+369,PUBG Mobile,PUBG Mobile World Cup 2025,ASIA,Sentinels,b1t,39808087,2866710,13,2025,7,7,93,1.55,100
+370,Dota 2,Valorant Champions 2025,ASIA,100 Thieves,s1mple,2964029,329197,12,2025,4,3,249,1.14,75
+371,PUBG Mobile,PUBG Mobile World Cup 2025,SA,Evil Geniuses,b1t,3402296,3530235,11,2025,6,2,252,1.08,33.33
+372,Dota 2,PUBG Mobile World Cup 2025,MENA,Vitality,Keria,38690089,3511489,3,2025,6,4,246,0.82,66.67
+373,Counter-Strike 2,Fortnite FNCS Global Championship 2025,NA,Sentinels,Sh1ro,5178552,918433,9,2024,7,7,243,0.96,100
+374,Valorant,BLAST Premier World Final 2024,EU,Team Liquid,TenZ,4808064,3911789,14,2024,3,3,164,1.38,100
+375,Counter-Strike 2,PUBG Mobile World Cup 2025,OCE,Natus Vincere,NiKo,34045459,3271673,5,2025,7,5,241,0.84,71.43
+376,Fortnite,Fortnite FNCS Global Championship 2025,SA,Natus Vincere,Nisha,32364825,2855474,3,2025,7,1,60,1.06,14.29
+377,Dota 2,Fortnite FNCS Global Championship 2024,MENA,FaZe Clan,b1t,24525661,2470425,13,2023,7,4,120,0.9,57.14
+378,PUBG Mobile,LoL Worlds 2024,OCE,OG,TenZ,5570044,1439366,14,2025,5,1,259,1.07,20
+379,Fortnite,LoL Worlds 2024,ASIA,Team Spirit,Leaf,5363169,638350,8,2025,4,2,237,1.33,50
+380,PUBG Mobile,LoL Worlds 2024,NA,FaZe Clan,Ana,10595210,447590,6,2023,5,5,246,1.12,100
+381,Dota 2,LoL Worlds 2024,MENA,G2 Esports,Derke,39424220,3778898,8,2024,4,3,273,1.17,75
+382,PUBG Mobile,Fortnite FNCS Global Championship 2025,MENA,Vitality,TenZ,8823944,2795579,6,2023,4,1,171,0.85,25
+383,Counter-Strike 2,BLAST Premier World Final 2024,ASIA,T1,TenZ,2516557,3661452,9,2023,5,2,280,1,40
+384,Valorant,The International 2024,SA,FaZe Clan,TenZ,15443787,2883934,3,2024,3,2,188,1.52,66.67
+385,Valorant,BLAST Premier World Final 2024,MENA,T1,Derke,18216941,4523327,7,2023,3,1,120,1.19,33.33
+386,Valorant,BLAST Premier World Final 2025,NA,Astralis,Leaf,17191954,2878366,6,2023,6,1,71,1.17,16.67
+387,PUBG Mobile,BLAST Premier World Final 2024,NA,T1,Faker,4069230,1537317,10,2024,4,4,201,1.59,100
+388,Fortnite,Valorant Champions 2025,NA,Astralis,TenZ,37496652,4714491,4,2024,7,6,165,0.81,85.71
+389,PUBG Mobile,BLAST Premier World Final 2025,ASIA,Cloud9,Sh1ro,12392805,4868398,3,2025,5,5,153,0.98,100
+390,League of Legends,PUBG Mobile World Cup 2025,SA,Paper Rex,ZywOo,19512873,2544128,6,2023,6,5,58,0.86,83.33
+391,Counter-Strike 2,Valorant Champions 2025,EU,Paper Rex,Keria,33223435,3014851,11,2023,3,1,231,1.26,33.33
+392,Fortnite,LoL Worlds 2025,EU,Evil Geniuses,b1t,14701387,4955618,11,2024,6,3,268,0.85,50
+393,League of Legends,Fortnite FNCS Global Championship 2024,NA,Paper Rex,Derke,31883974,242592,3,2025,3,1,299,1.15,33.33
+394,PUBG Mobile,BLAST Premier World Final 2024,ASIA,Vitality,Aspas,27597545,4889844,8,2023,4,4,107,1.01,100
+395,Counter-Strike 2,Fortnite FNCS Global Championship 2024,EU,100 Thieves,Aspas,32364604,3212978,8,2024,5,2,192,1.01,40
+396,Dota 2,LoL Worlds 2025,NA,Astralis,Aspas,31329650,4462189,8,2023,6,3,260,1.07,50
+397,Valorant,BLAST Premier World Final 2025,NA,FaZe Clan,NiKo,8406996,1470393,7,2023,5,2,183,1.52,40
+398,League of Legends,BLAST Premier World Final 2025,NA,Paper Rex,Sh1ro,33301165,2819165,3,2023,4,1,148,1.46,25
+399,Fortnite,Fortnite FNCS Global Championship 2024,SA,Astralis,Aspas,35095523,2917531,13,2023,6,2,298,1.46,33.33
+400,League of Legends,LoL Worlds 2025,EU,Natus Vincere,TenZ,35794077,3606543,6,2024,5,5,59,1.33,100
+401,League of Legends,Valorant Champions 2025,MENA,Team Liquid,Ana,18032154,55389,4,2025,3,2,125,1.02,66.67
+402,Valorant,Valorant Champions 2025,EU,Vitality,b1t,33247900,3039558,7,2025,6,3,167,1.35,50
+403,PUBG Mobile,BLAST Premier World Final 2024,MENA,Team Liquid,NiKo,18298669,2789695,4,2023,3,2,179,1.45,66.67
+404,Dota 2,Valorant Champions 2025,OCE,Fnatic,b1t,33128706,2119267,7,2025,5,2,167,1.01,40
+405,Dota 2,BLAST Premier World Final 2024,MENA,FaZe Clan,Leaf,36121619,1854919,7,2023,4,4,150,1.56,100
+406,Dota 2,PUBG Mobile World Cup 2025,MENA,Vitality,NiKo,35025714,4018607,13,2023,5,5,112,1.26,100
+407,Valorant,The International 2025,EU,Fnatic,Sh1ro,4642979,2994006,13,2025,5,3,130,0.81,60
+408,Valorant,PUBG Mobile World Cup 2025,NA,Team Spirit,Keria,9602414,1109212,13,2025,5,2,206,0.85,40
+409,Valorant,BLAST Premier World Final 2024,SA,OG,Boombl4,23495750,3094240,6,2025,6,2,92,0.81,33.33
+410,Counter-Strike 2,Fortnite FNCS Global Championship 2025,OCE,Sentinels,Nisha,27174256,4470296,7,2023,5,5,196,1.48,100
+411,Fortnite,PUBG Mobile World Cup 2025,MENA,G2 Esports,Nisha,36162441,4265198,12,2025,3,3,52,1.43,100
+412,League of Legends,LoL Worlds 2025,ASIA,Natus Vincere,ShowMaker,24467477,3187939,13,2024,4,4,58,1.39,100
+413,Dota 2,Valorant Champions 2025,OCE,Team Liquid,Ana,5733153,2570040,5,2023,3,3,154,1.27,100
+414,Valorant,Valorant Champions 2024,ASIA,Natus Vincere,Boombl4,15714215,4293393,4,2025,7,6,134,1.57,85.71
+415,Valorant,LoL Worlds 2024,NA,Team Liquid,Faker,21744448,1228155,12,2025,5,2,183,1.07,40
+416,League of Legends,PUBG Mobile World Cup 2025,MENA,100 Thieves,s1mple,27709889,1773189,5,2025,4,2,230,0.8,50
+417,Dota 2,LoL Worlds 2024,EU,Sentinels,TenZ,27028706,3608221,10,2023,4,4,162,0.9,100
+418,PUBG Mobile,The International 2024,ASIA,Natus Vincere,TenZ,11578840,4072593,5,2024,3,3,52,0.93,100
+419,Valorant,Valorant Champions 2025,OCE,Cloud9,Faker,13411152,4262772,10,2023,4,3,160,1.1,75
+420,PUBG Mobile,PUBG Mobile World Cup 2024,OCE,Natus Vincere,Boombl4,16776443,3176547,3,2025,6,3,155,1.22,50
+421,Counter-Strike 2,Valorant Champions 2024,MENA,Vitality,Keria,7813132,3519875,14,2024,6,1,102,0.91,16.67
+422,Fortnite,LoL Worlds 2025,SA,Team Spirit,Keria,39274187,4752746,8,2023,4,3,224,1.4,75
+423,Dota 2,Fortnite FNCS Global Championship 2025,ASIA,Paper Rex,Nisha,16896597,4209747,13,2023,6,1,97,1.51,16.67
+424,Counter-Strike 2,BLAST Premier World Final 2024,SA,Paper Rex,s1mple,671124,2378917,13,2025,4,3,293,1.02,75
+425,Counter-Strike 2,Valorant Champions 2025,EU,Team Spirit,Aspas,23198894,3437040,3,2023,3,3,239,1.47,100
+426,Fortnite,Valorant Champions 2025,OCE,FaZe Clan,ZywOo,39669716,492571,5,2025,7,7,212,1.42,100
+427,Fortnite,BLAST Premier World Final 2025,ASIA,OG,b1t,23905794,4871306,9,2023,4,2,106,1.57,50
+428,Valorant,PUBG Mobile World Cup 2025,OCE,Paper Rex,Keria,19176745,3887940,8,2025,6,3,157,1.41,50
+429,Valorant,BLAST Premier World Final 2024,SA,Team Liquid,Faker,2192604,2688595,6,2025,4,4,151,1.3,100
+430,PUBG Mobile,Fortnite FNCS Global Championship 2024,MENA,FaZe Clan,b1t,30948167,1314475,5,2025,6,4,57,1.55,66.67
+431,Valorant,Fortnite FNCS Global Championship 2025,SA,Evil Geniuses,Nisha,28178593,4607541,5,2025,5,5,133,1.24,100
+432,Fortnite,The International 2024,NA,Team Spirit,Nisha,20836688,1803483,12,2025,6,5,244,1.23,83.33
+433,Dota 2,Fortnite FNCS Global Championship 2024,SA,OG,b1t,38359783,2789755,6,2023,7,2,201,1.15,28.57
+434,PUBG Mobile,LoL Worlds 2025,MENA,Team Liquid,TenZ,24696641,4848145,5,2025,7,4,242,0.97,57.14
+435,PUBG Mobile,Fortnite FNCS Global Championship 2025,SA,Evil Geniuses,b1t,13559032,2297455,11,2023,4,3,222,1.08,75
+436,Counter-Strike 2,Fortnite FNCS Global Championship 2025,SA,Natus Vincere,b1t,21468490,3094792,13,2024,6,3,190,1.48,50
+437,League of Legends,LoL Worlds 2024,OCE,Team Spirit,Leaf,4058369,658502,6,2024,4,4,76,1.48,100
+438,Valorant,LoL Worlds 2025,NA,FaZe Clan,Boombl4,6371578,835075,9,2025,3,3,267,1.24,100
+439,Counter-Strike 2,LoL Worlds 2024,SA,Fnatic,Nisha,3521224,1664703,10,2024,6,4,251,1.48,66.67
+440,Fortnite,The International 2025,SA,Team Spirit,Boombl4,2487502,1334482,12,2023,6,1,147,1.25,16.67
+441,PUBG Mobile,Valorant Champions 2024,MENA,Team Spirit,b1t,11183406,1808029,9,2023,3,2,172,0.87,66.67
+442,PUBG Mobile,Fortnite FNCS Global Championship 2025,OCE,T1,ZywOo,15586117,104041,12,2025,6,1,233,1.23,16.67
+443,Valorant,Fortnite FNCS Global Championship 2024,NA,Team Liquid,b1t,30213759,645539,7,2024,4,2,165,1.5,50
+444,Counter-Strike 2,The International 2024,OCE,Fnatic,TenZ,26055941,2253619,11,2024,5,2,287,1.18,40
+445,League of Legends,The International 2025,NA,Cloud9,Ana,19272362,1069830,6,2023,5,3,162,1.02,60
+446,PUBG Mobile,Valorant Champions 2025,NA,OG,Boombl4,5961213,2185905,10,2023,4,1,232,1.05,25
+447,League of Legends,PUBG Mobile World Cup 2024,EU,100 Thieves,ZywOo,30944686,3205565,11,2025,5,5,201,1.47,100
+448,PUBG Mobile,BLAST Premier World Final 2025,SA,Team Liquid,Boombl4,7279417,4189819,13,2023,3,3,61,0.9,100
+449,Valorant,The International 2025,MENA,Fnatic,Boombl4,34558235,357732,3,2024,4,2,210,1.05,50
+450,Dota 2,The International 2025,ASIA,Cloud9,Leaf,24258801,3160600,13,2024,6,3,122,0.82,50
+451,PUBG Mobile,Fortnite FNCS Global Championship 2025,ASIA,Natus Vincere,Ana,21687005,224772,8,2025,6,4,125,1.06,66.67
+452,Dota 2,PUBG Mobile World Cup 2024,MENA,Paper Rex,Keria,7193692,568324,8,2023,4,2,249,1.29,50
+453,PUBG Mobile,Fortnite FNCS Global Championship 2024,ASIA,T1,Sh1ro,16259149,163496,5,2025,7,2,169,1.08,28.57
+454,Valorant,BLAST Premier World Final 2024,SA,Astralis,s1mple,5093750,2310444,7,2025,7,3,212,1.07,42.86
+455,Fortnite,The International 2025,ASIA,Evil Geniuses,Keria,21383213,4858701,4,2025,7,1,210,0.81,14.29
+456,Valorant,Fortnite FNCS Global Championship 2024,OCE,Natus Vincere,TenZ,39897324,297036,14,2023,4,1,192,1.33,25
+457,Valorant,The International 2024,NA,Team Spirit,Sh1ro,15924525,4432007,10,2023,3,1,120,0.83,33.33
+458,Dota 2,PUBG Mobile World Cup 2024,ASIA,G2 Esports,s1mple,16389323,923022,7,2024,3,2,82,0.86,66.67
+459,Valorant,Valorant Champions 2024,OCE,G2 Esports,Nisha,6617954,153162,6,2025,4,3,50,1.6,75
+460,League of Legends,Fortnite FNCS Global Championship 2024,SA,Astralis,Derke,25704137,783696,4,2025,7,5,202,1.26,71.43
+461,Fortnite,PUBG Mobile World Cup 2025,NA,Fnatic,Sh1ro,25319272,1555191,10,2025,5,1,293,1.32,20
+462,Valorant,The International 2024,OCE,Sentinels,NiKo,22549642,2542425,8,2024,7,4,123,1.41,57.14
+463,Counter-Strike 2,The International 2025,EU,OG,b1t,10914302,2792713,12,2023,4,2,285,1.26,50
+464,Dota 2,The International 2024,OCE,100 Thieves,Nisha,1075123,4765562,11,2024,6,2,298,1.49,33.33
+465,Counter-Strike 2,Fortnite FNCS Global Championship 2025,SA,Paper Rex,s1mple,17832263,3870149,11,2025,5,4,116,1.29,80
+466,Counter-Strike 2,Valorant Champions 2024,EU,FaZe Clan,Derke,27073145,1649040,5,2025,7,5,254,1.6,71.43
+467,Valorant,LoL Worlds 2025,EU,G2 Esports,NiKo,9930674,298060,11,2024,3,2,208,0.94,66.67
+468,Fortnite,The International 2025,NA,Fnatic,b1t,36654914,1916446,4,2025,4,3,281,1.16,75
+469,Valorant,Valorant Champions 2024,MENA,G2 Esports,b1t,8463727,3027885,4,2024,6,5,50,1.4,83.33
+470,League of Legends,LoL Worlds 2025,SA,Team Spirit,Boombl4,24732728,3639550,13,2023,5,5,163,1.5,100
+471,Valorant,The International 2024,NA,Astralis,Nisha,17153058,4853613,14,2024,5,3,68,1.23,60
+472,Dota 2,PUBG Mobile World Cup 2025,MENA,Paper Rex,Derke,24227763,4616012,4,2024,7,3,232,1.3,42.86
+473,League of Legends,LoL Worlds 2025,MENA,100 Thieves,Faker,24747186,473767,9,2024,4,2,85,1.02,50
+474,League of Legends,Valorant Champions 2024,ASIA,100 Thieves,Sh1ro,39374035,3411500,7,2024,5,1,88,1.22,20
+475,Valorant,BLAST Premier World Final 2025,OCE,T1,Ana,27384523,3516654,4,2025,4,1,57,1.57,25
+476,Fortnite,Valorant Champions 2025,MENA,FaZe Clan,ZywOo,11349215,1115845,5,2023,7,1,79,1.02,14.29
+477,Dota 2,Valorant Champions 2024,SA,Team Spirit,TenZ,37639130,2652176,3,2024,6,5,235,1.52,83.33
+478,Valorant,Valorant Champions 2025,OCE,Astralis,Boombl4,18379858,1185802,8,2024,3,3,134,1.21,100
+479,League of Legends,The International 2024,SA,100 Thieves,Derke,20314310,2583329,6,2025,4,2,122,1.2,50
+480,PUBG Mobile,PUBG Mobile World Cup 2025,EU,OG,Sh1ro,1333986,1787873,6,2024,5,4,159,1.41,80
+481,Fortnite,PUBG Mobile World Cup 2025,MENA,Cloud9,Faker,38922556,940468,3,2023,7,4,153,0.94,57.14
+482,PUBG Mobile,Valorant Champions 2025,OCE,Fnatic,Aspas,8896363,1244634,9,2024,4,3,225,1.15,75
+483,Valorant,The International 2024,ASIA,G2 Esports,Leaf,35651272,2128781,12,2025,7,3,87,1.31,42.86
+484,PUBG Mobile,Valorant Champions 2025,SA,Cloud9,Keria,21205874,1754608,11,2024,3,1,100,1.26,33.33
+485,Counter-Strike 2,BLAST Premier World Final 2025,EU,Natus Vincere,Derke,26687542,905330,12,2024,7,5,152,1.14,71.43
+486,Counter-Strike 2,Fortnite FNCS Global Championship 2025,SA,Natus Vincere,Sh1ro,13750096,4356929,9,2024,5,2,195,0.94,40
+487,Counter-Strike 2,Fortnite FNCS Global Championship 2024,NA,100 Thieves,Faker,34763839,713184,4,2024,7,3,170,1.5,42.86
+488,PUBG Mobile,LoL Worlds 2024,SA,Team Liquid,s1mple,16953443,544357,5,2025,5,1,52,0.99,20
+489,PUBG Mobile,BLAST Premier World Final 2024,EU,G2 Esports,ShowMaker,29301696,3971354,3,2025,6,2,260,1.25,33.33
+490,Counter-Strike 2,PUBG Mobile World Cup 2024,MENA,Team Spirit,Keria,12495322,981130,12,2024,7,7,182,1.06,100
+491,League of Legends,BLAST Premier World Final 2025,OCE,G2 Esports,Derke,16231270,2950884,12,2024,6,1,178,0.89,16.67
+492,Fortnite,PUBG Mobile World Cup 2024,SA,Team Spirit,TenZ,26484896,3690668,4,2023,6,4,276,1,66.67
+493,PUBG Mobile,PUBG Mobile World Cup 2024,OCE,Team Spirit,NiKo,19353997,2447239,7,2025,7,2,204,1.18,28.57
+494,PUBG Mobile,BLAST Premier World Final 2024,ASIA,Evil Geniuses,Aspas,35607925,4751331,11,2025,5,3,68,0.89,60
+495,Dota 2,BLAST Premier World Final 2024,SA,Astralis,b1t,29285316,3112605,14,2023,6,5,264,0.96,83.33
+496,Counter-Strike 2,BLAST Premier World Final 2025,EU,FaZe Clan,Sh1ro,13681932,588968,8,2023,6,4,118,0.99,66.67
+497,Counter-Strike 2,The International 2025,OCE,Team Spirit,TenZ,27591408,3444346,9,2023,5,4,262,0.85,80
+498,Dota 2,BLAST Premier World Final 2025,EU,G2 Esports,TenZ,39369487,2685135,5,2023,5,1,68,0.9,20
+499,Valorant,PUBG Mobile World Cup 2025,NA,Fnatic,Sh1ro,15406292,2133031,4,2023,4,2,144,0.84,50
+500,Valorant,The International 2025,EU,Fnatic,b1t,13049663,4945415,10,2025,4,2,270,0.93,50
+501,Valorant,Valorant Champions 2025,SA,FaZe Clan,Derke,25119740,2085352,4,2023,7,1,280,1.57,14.29
+502,League of Legends,The International 2025,OCE,100 Thieves,Keria,28508410,1067384,12,2024,5,3,190,1.01,60
+503,Dota 2,LoL Worlds 2024,OCE,Evil Geniuses,Derke,12481790,1739109,3,2024,6,2,120,1.05,33.33
+504,Fortnite,The International 2025,EU,G2 Esports,s1mple,5210990,4495794,4,2023,6,3,165,0.95,50
+505,Fortnite,PUBG Mobile World Cup 2025,EU,Cloud9,ShowMaker,22603977,4762566,12,2023,5,2,257,1.31,40
+506,Fortnite,LoL Worlds 2025,SA,T1,Nisha,24381467,3534657,8,2023,4,3,59,1.22,75
+507,Valorant,Fortnite FNCS Global Championship 2025,ASIA,100 Thieves,Boombl4,15674227,265222,5,2023,5,5,204,1.22,100
+508,Counter-Strike 2,LoL Worlds 2025,SA,G2 Esports,NiKo,17147529,3612318,13,2024,4,2,68,1.25,50
+509,Fortnite,The International 2025,SA,T1,Leaf,38630338,2468856,10,2024,4,1,184,0.87,25
+510,League of Legends,PUBG Mobile World Cup 2025,NA,Astralis,ZywOo,24182155,4464176,4,2023,5,1,89,1.18,20
+511,PUBG Mobile,LoL Worlds 2024,EU,FaZe Clan,TenZ,3887533,3653093,6,2024,5,3,269,1.41,60
+512,Counter-Strike 2,PUBG Mobile World Cup 2025,SA,Evil Geniuses,Keria,1763645,3877307,14,2023,5,3,111,0.8,60
+513,Dota 2,PUBG Mobile World Cup 2025,SA,Cloud9,Leaf,9188361,2643865,9,2023,6,3,64,1.35,50
+514,League of Legends,The International 2024,EU,FaZe Clan,b1t,11452082,1679260,13,2023,4,4,252,0.85,100
+515,League of Legends,PUBG Mobile World Cup 2024,MENA,Team Spirit,Boombl4,39703302,3826406,9,2025,7,2,179,1.14,28.57
+516,Valorant,PUBG Mobile World Cup 2024,EU,OG,NiKo,12761089,792979,14,2023,6,6,150,1.48,100
+517,League of Legends,LoL Worlds 2025,OCE,Vitality,TenZ,36061934,4717376,13,2024,7,2,183,1.23,28.57
+518,Fortnite,BLAST Premier World Final 2025,ASIA,Vitality,s1mple,39325253,4000508,8,2024,6,4,292,0.99,66.67
+519,Dota 2,The International 2024,ASIA,Astralis,Keria,26830874,2553997,5,2024,4,2,170,1.51,50
+520,Valorant,LoL Worlds 2025,OCE,Natus Vincere,Leaf,15947582,1702869,3,2023,5,2,92,1.57,40
+521,Dota 2,LoL Worlds 2025,ASIA,100 Thieves,Aspas,9859919,1082090,8,2024,7,3,292,0.91,42.86
+522,Counter-Strike 2,LoL Worlds 2025,MENA,G2 Esports,Aspas,19390506,3196382,8,2024,6,2,65,1.49,33.33
+523,Fortnite,PUBG Mobile World Cup 2024,EU,Cloud9,b1t,38013124,1161152,3,2023,3,1,287,1.5,33.33
+524,Valorant,Fortnite FNCS Global Championship 2025,OCE,Paper Rex,b1t,24341260,1409661,5,2025,5,1,193,0.9,20
+525,League of Legends,Valorant Champions 2025,ASIA,OG,Derke,36660609,4238241,9,2023,7,5,255,1.35,71.43
+526,Valorant,PUBG Mobile World Cup 2025,MENA,T1,Sh1ro,37603901,1065619,12,2023,4,3,144,1,75
+527,PUBG Mobile,Valorant Champions 2025,ASIA,Sentinels,s1mple,21209818,4731347,11,2023,3,3,292,1.39,100
+528,Counter-Strike 2,LoL Worlds 2025,ASIA,Team Spirit,Keria,6442345,3413641,11,2025,3,1,74,1.27,33.33
+529,Dota 2,The International 2025,ASIA,FaZe Clan,Ana,2284892,1809827,4,2023,7,5,182,1.42,71.43
+530,League of Legends,Fortnite FNCS Global Championship 2024,EU,Fnatic,Nisha,37454499,1382829,14,2025,4,2,155,0.93,50
+531,Valorant,The International 2025,ASIA,Cloud9,s1mple,7044719,3585454,8,2025,3,1,58,1.23,33.33
+532,Counter-Strike 2,PUBG Mobile World Cup 2024,NA,FaZe Clan,Faker,9108693,1185562,3,2023,5,5,140,1.29,100
+533,League of Legends,PUBG Mobile World Cup 2024,OCE,Sentinels,NiKo,32860172,4680159,4,2023,7,6,298,1.08,85.71
+534,Valorant,PUBG Mobile World Cup 2025,MENA,Team Spirit,ZywOo,15334793,2018615,6,2024,4,2,116,1.16,50
+535,Dota 2,PUBG Mobile World Cup 2025,NA,Cloud9,Ana,26514481,4165582,12,2025,3,1,265,1.46,33.33
+536,Dota 2,LoL Worlds 2025,ASIA,Sentinels,Faker,2644627,3760944,12,2023,4,4,229,1.56,100
+537,League of Legends,Fortnite FNCS Global Championship 2024,OCE,FaZe Clan,NiKo,27381409,3876735,10,2023,7,5,183,1.48,71.43
+538,Counter-Strike 2,LoL Worlds 2024,ASIA,Natus Vincere,Faker,4714006,708823,14,2024,7,5,130,1.41,71.43
+539,PUBG Mobile,The International 2025,ASIA,G2 Esports,Sh1ro,17770439,4929682,10,2023,5,2,62,1.58,40
+540,Valorant,PUBG Mobile World Cup 2024,EU,Astralis,NiKo,9396222,1558901,12,2025,4,4,187,0.9,100
+541,Dota 2,The International 2024,OCE,Astralis,NiKo,22241569,2136047,7,2025,7,7,286,1.5,100
+542,Dota 2,BLAST Premier World Final 2025,EU,Team Spirit,Keria,14820712,1886291,13,2025,4,2,268,0.93,50
+543,Counter-Strike 2,The International 2024,OCE,Cloud9,NiKo,18613228,1377589,4,2024,3,2,97,1.44,66.67
+544,PUBG Mobile,PUBG Mobile World Cup 2025,NA,Astralis,Leaf,8917033,2774434,6,2024,4,2,290,1.42,50
+545,Fortnite,PUBG Mobile World Cup 2025,NA,FaZe Clan,Leaf,39151030,3131041,7,2025,7,4,91,1.26,57.14
+546,League of Legends,PUBG Mobile World Cup 2025,NA,FaZe Clan,Keria,13322543,4615484,3,2025,5,3,125,0.9,60
+547,PUBG Mobile,Fortnite FNCS Global Championship 2024,SA,Fnatic,Leaf,11201281,584609,4,2023,7,4,182,1.57,57.14
+548,PUBG Mobile,PUBG Mobile World Cup 2024,ASIA,Team Spirit,Nisha,8842454,1550777,9,2025,5,3,216,1.58,60
+549,PUBG Mobile,PUBG Mobile World Cup 2024,ASIA,OG,Faker,37851314,3988122,13,2025,5,2,95,1.56,40
+550,Dota 2,Valorant Champions 2024,EU,100 Thieves,Nisha,20156339,3155592,14,2024,5,2,138,1.22,40
+551,Counter-Strike 2,PUBG Mobile World Cup 2024,NA,Team Liquid,Aspas,32891823,2462297,10,2023,5,3,209,1.4,60
+552,Dota 2,Fortnite FNCS Global Championship 2024,OCE,Vitality,Faker,6876460,4409785,3,2025,7,5,207,1.4,71.43
+553,Counter-Strike 2,PUBG Mobile World Cup 2025,EU,Fnatic,s1mple,7408860,2365680,6,2024,5,4,63,1.38,80
+554,Counter-Strike 2,BLAST Premier World Final 2024,OCE,Team Liquid,Aspas,30112872,3250396,13,2024,4,4,79,1.53,100
+555,Counter-Strike 2,LoL Worlds 2024,SA,Vitality,ShowMaker,35262869,345025,12,2023,6,2,268,1.45,33.33
+556,Fortnite,PUBG Mobile World Cup 2025,EU,100 Thieves,Boombl4,30221264,2898645,7,2024,3,1,243,1.02,33.33
+557,Dota 2,The International 2025,NA,Fnatic,Derke,38297551,1905236,9,2024,7,7,232,1.24,100
+558,Dota 2,Fortnite FNCS Global Championship 2024,SA,G2 Esports,Derke,3631225,2066837,8,2023,4,2,223,1.37,50
+559,PUBG Mobile,Valorant Champions 2024,SA,T1,TenZ,27281427,4624593,3,2025,5,1,161,1.24,20
+560,Counter-Strike 2,PUBG Mobile World Cup 2025,MENA,Fnatic,ZywOo,9331391,2429697,14,2025,6,4,268,1.08,66.67
+561,Valorant,Fortnite FNCS Global Championship 2024,NA,Cloud9,Leaf,18264418,4648136,5,2024,7,2,235,0.92,28.57
+562,Fortnite,Valorant Champions 2025,ASIA,Team Spirit,s1mple,32574780,4577014,5,2023,3,1,168,1.44,33.33
+563,PUBG Mobile,LoL Worlds 2025,NA,Natus Vincere,Boombl4,14904670,1450802,7,2023,5,2,62,1.56,40
+564,PUBG Mobile,Valorant Champions 2025,EU,Vitality,Sh1ro,18642193,2128728,4,2023,3,2,288,1.2,66.67
+565,PUBG Mobile,The International 2025,SA,Vitality,s1mple,17645599,3879118,10,2025,6,2,268,1.08,33.33
+566,PUBG Mobile,Valorant Champions 2025,OCE,Astralis,Derke,18755413,3922465,7,2024,3,2,114,1.34,66.67
+567,Dota 2,LoL Worlds 2024,OCE,Evil Geniuses,NiKo,25040722,72686,10,2025,4,3,60,1.14,75
+568,Valorant,The International 2025,MENA,T1,ShowMaker,27600529,2587187,7,2024,5,1,149,1.4,20
+569,Valorant,Fortnite FNCS Global Championship 2024,NA,Natus Vincere,ZywOo,6829029,3729856,9,2024,7,5,281,1.57,71.43
+570,Fortnite,BLAST Premier World Final 2025,OCE,Team Spirit,TenZ,27947406,4507442,4,2025,7,6,104,1.26,85.71
+571,Fortnite,The International 2024,MENA,T1,s1mple,6546612,165560,9,2025,3,3,126,1.43,100
+572,Dota 2,The International 2024,MENA,Natus Vincere,Sh1ro,13517474,3804720,14,2023,4,4,108,0.94,100
+573,Fortnite,BLAST Premier World Final 2024,ASIA,OG,s1mple,9030284,1531814,14,2025,3,3,296,1.2,100
+574,Counter-Strike 2,The International 2025,SA,Natus Vincere,s1mple,17216061,1271184,8,2025,4,2,259,0.9,50
+575,League of Legends,LoL Worlds 2025,SA,T1,Aspas,26759313,3394403,5,2025,5,4,76,1.34,80
+576,Dota 2,PUBG Mobile World Cup 2024,NA,Astralis,TenZ,27090507,4320316,3,2025,7,2,53,1.43,28.57
+577,Fortnite,BLAST Premier World Final 2025,SA,Vitality,Aspas,16819672,4424271,14,2023,3,2,205,1.59,66.67
+578,League of Legends,PUBG Mobile World Cup 2024,MENA,Paper Rex,Boombl4,2763475,4806615,12,2023,6,6,159,1.54,100
+579,Counter-Strike 2,BLAST Premier World Final 2025,MENA,Paper Rex,Ana,33018984,3791481,8,2024,4,3,138,1.17,75
+580,Fortnite,The International 2024,OCE,OG,Sh1ro,1703715,4504397,6,2025,3,3,238,1.52,100
+581,League of Legends,BLAST Premier World Final 2025,MENA,Team Liquid,b1t,9711010,811851,8,2024,5,5,149,1.59,100
+582,PUBG Mobile,Valorant Champions 2024,OCE,T1,Keria,37257154,1919776,13,2023,5,2,157,1.03,40
+583,Fortnite,BLAST Premier World Final 2024,NA,Sentinels,TenZ,39466126,860040,12,2025,4,2,138,1.41,50
+584,Counter-Strike 2,Valorant Champions 2025,NA,100 Thieves,ShowMaker,21839992,141875,4,2024,3,3,74,1.59,100
+585,Valorant,LoL Worlds 2024,EU,Natus Vincere,s1mple,32988194,1082452,4,2024,7,1,163,1.23,14.29
+586,PUBG Mobile,PUBG Mobile World Cup 2024,EU,OG,Faker,1734842,51080,9,2025,3,2,188,1.19,66.67
+587,Dota 2,The International 2024,ASIA,100 Thieves,ZywOo,28603265,673485,3,2024,5,1,241,1.53,20
+588,PUBG Mobile,LoL Worlds 2025,NA,Astralis,Nisha,12960347,1408356,5,2023,4,3,129,0.99,75
+589,League of Legends,Fortnite FNCS Global Championship 2025,NA,FaZe Clan,ShowMaker,18936193,1780137,10,2025,4,2,279,0.88,50
+590,Counter-Strike 2,Fortnite FNCS Global Championship 2024,MENA,Evil Geniuses,ZywOo,7908596,3111355,12,2023,7,7,208,1.4,100
+591,Valorant,Fortnite FNCS Global Championship 2025,NA,Team Liquid,b1t,18623163,1058121,14,2025,7,7,144,1.12,100
+592,Dota 2,The International 2024,NA,Cloud9,ZywOo,15896936,2594060,8,2023,7,4,200,0.89,57.14
+593,Counter-Strike 2,BLAST Premier World Final 2025,OCE,Evil Geniuses,Aspas,7958857,1025511,8,2025,7,3,105,1.54,42.86
+594,League of Legends,The International 2024,OCE,Team Spirit,Aspas,36132786,3169046,6,2025,3,2,139,1.49,66.67
+595,Fortnite,Valorant Champions 2024,EU,Vitality,NiKo,39731302,1362389,12,2024,4,1,114,1.24,25
+596,Fortnite,PUBG Mobile World Cup 2025,ASIA,100 Thieves,ZywOo,1842930,2197083,5,2025,6,6,200,1.5,100
+597,Counter-Strike 2,Fortnite FNCS Global Championship 2025,MENA,Team Liquid,Nisha,14018663,1264557,7,2024,3,1,169,1.39,33.33
+598,League of Legends,The International 2024,OCE,Natus Vincere,Nisha,6094885,4283559,3,2023,3,1,127,1.05,33.33
+599,Fortnite,Fortnite FNCS Global Championship 2025,OCE,Team Liquid,Boombl4,26674526,3920576,9,2024,7,2,216,1.4,28.57
+600,Dota 2,Fortnite FNCS Global Championship 2024,EU,FaZe Clan,Sh1ro,17151858,2017690,3,2023,7,7,216,1.08,100
+601,Valorant,The International 2024,SA,Cloud9,Boombl4,35955427,3974625,10,2025,7,6,295,0.93,85.71
+602,League of Legends,BLAST Premier World Final 2025,MENA,Fnatic,b1t,8926881,4437757,5,2025,6,5,101,0.86,83.33
+603,Dota 2,The International 2024,OCE,FaZe Clan,ShowMaker,3480038,3603521,10,2024,6,4,261,1.44,66.67
+604,Dota 2,PUBG Mobile World Cup 2024,MENA,Team Liquid,NiKo,4209647,602633,7,2023,4,1,168,1.51,25
+605,PUBG Mobile,PUBG Mobile World Cup 2025,ASIA,G2 Esports,Nisha,1506631,4403339,14,2025,4,3,201,1.27,75
+606,PUBG Mobile,BLAST Premier World Final 2024,MENA,Team Spirit,ZywOo,39758458,435617,11,2025,6,4,272,0.94,66.67
+607,League of Legends,BLAST Premier World Final 2024,SA,Fnatic,Leaf,6268301,2564000,4,2025,3,2,194,0.8,66.67
+608,Fortnite,The International 2024,NA,Team Spirit,TenZ,29429653,877091,10,2025,5,2,216,1.5,40
+609,Fortnite,Fortnite FNCS Global Championship 2024,EU,G2 Esports,ShowMaker,1484615,925958,7,2024,5,1,205,1.58,20
+610,PUBG Mobile,BLAST Premier World Final 2025,ASIA,FaZe Clan,Aspas,12807263,1627417,9,2023,6,5,295,1.46,83.33
+611,Valorant,The International 2025,MENA,Sentinels,Leaf,20383444,2860250,12,2024,3,2,51,1.09,66.67
+612,PUBG Mobile,Fortnite FNCS Global Championship 2025,SA,Team Spirit,Boombl4,7151672,3920479,3,2024,5,1,216,1.57,20
+613,Counter-Strike 2,BLAST Premier World Final 2025,NA,FaZe Clan,Derke,28451929,3373128,12,2023,6,6,175,0.92,100
+614,Valorant,BLAST Premier World Final 2024,ASIA,G2 Esports,Sh1ro,37734739,3779454,4,2025,6,4,249,1.31,66.67
+615,Fortnite,PUBG Mobile World Cup 2024,OCE,G2 Esports,Ana,3180119,4777924,11,2023,3,3,66,1.03,100
+616,PUBG Mobile,LoL Worlds 2024,OCE,Astralis,Faker,32639794,304990,6,2025,7,7,223,1.02,100
+617,Fortnite,BLAST Premier World Final 2025,ASIA,Natus Vincere,Keria,12859909,4186762,9,2023,6,4,67,0.81,66.67
+618,Counter-Strike 2,BLAST Premier World Final 2024,MENA,Sentinels,Sh1ro,28383490,4883425,11,2025,3,1,216,1.35,33.33
+619,PUBG Mobile,Fortnite FNCS Global Championship 2024,SA,OG,Faker,24254616,2733633,3,2025,4,4,96,0.98,100
+620,League of Legends,PUBG Mobile World Cup 2024,ASIA,Natus Vincere,Boombl4,25364958,163098,10,2023,6,1,61,1.31,16.67
+621,League of Legends,The International 2025,SA,Vitality,Nisha,30928164,861203,14,2023,5,1,84,1.46,20
+622,Dota 2,Fortnite FNCS Global Championship 2025,OCE,100 Thieves,Leaf,22282162,4665940,10,2025,3,3,85,1.29,100
+623,Counter-Strike 2,Valorant Champions 2024,EU,Sentinels,ShowMaker,35073296,3630415,6,2025,3,1,213,0.97,33.33
+624,Fortnite,PUBG Mobile World Cup 2025,EU,FaZe Clan,NiKo,27401768,912645,7,2025,7,7,52,0.94,100
+625,League of Legends,The International 2025,ASIA,G2 Esports,b1t,39696972,311856,12,2025,6,4,150,1.57,66.67
+626,League of Legends,PUBG Mobile World Cup 2025,OCE,Cloud9,Aspas,12954080,832632,6,2023,3,2,266,1.07,66.67
+627,Fortnite,Fortnite FNCS Global Championship 2024,SA,Natus Vincere,Boombl4,1645377,173454,3,2023,7,5,133,1.29,71.43
+628,League of Legends,Fortnite FNCS Global Championship 2024,SA,Evil Geniuses,Boombl4,18680413,2400156,7,2025,3,2,180,1.02,66.67
+629,Fortnite,LoL Worlds 2025,NA,FaZe Clan,Leaf,3286419,3810016,14,2023,6,6,85,1.17,100
+630,Valorant,Fortnite FNCS Global Championship 2025,OCE,G2 Esports,Faker,17986073,3269307,7,2023,5,3,229,1.13,60
+631,PUBG Mobile,LoL Worlds 2025,EU,G2 Esports,ShowMaker,6351397,862554,12,2023,3,3,272,1.41,100
+632,Counter-Strike 2,Valorant Champions 2025,EU,Fnatic,NiKo,9506473,247125,4,2024,6,1,63,1.29,16.67
+633,League of Legends,The International 2024,ASIA,Natus Vincere,Boombl4,35095650,558550,13,2023,3,1,75,0.98,33.33
+634,Fortnite,PUBG Mobile World Cup 2025,ASIA,Team Liquid,NiKo,28634795,2052319,13,2024,3,1,246,1.56,33.33
+635,Dota 2,PUBG Mobile World Cup 2025,NA,OG,s1mple,1916391,135394,5,2024,5,2,213,1.01,40
+636,Fortnite,Valorant Champions 2024,NA,Astralis,ShowMaker,30479545,3433162,12,2025,5,1,159,0.81,20
+637,Valorant,LoL Worlds 2025,OCE,Evil Geniuses,Sh1ro,11687627,723623,10,2025,5,4,161,1.34,80
+638,Fortnite,Valorant Champions 2025,ASIA,Natus Vincere,s1mple,4097377,2754852,12,2023,7,3,234,1.28,42.86
+639,Fortnite,PUBG Mobile World Cup 2025,ASIA,100 Thieves,Ana,4788929,96772,3,2023,7,4,73,1.41,57.14
+640,Fortnite,LoL Worlds 2024,OCE,T1,Derke,27087950,4049323,3,2024,4,2,284,1.29,50
+641,PUBG Mobile,LoL Worlds 2024,ASIA,G2 Esports,Leaf,18884250,3587706,11,2024,7,4,210,0.89,57.14
+642,League of Legends,PUBG Mobile World Cup 2025,MENA,T1,b1t,15392299,148070,12,2025,7,1,213,1.58,14.29
+643,League of Legends,The International 2025,NA,OG,Keria,22582236,3731592,4,2024,3,3,263,1.07,100
+644,League of Legends,PUBG Mobile World Cup 2024,ASIA,Astralis,Aspas,9068114,4451549,8,2025,4,4,81,1.55,100
+645,Fortnite,LoL Worlds 2024,SA,Fnatic,b1t,33401446,3941980,7,2024,6,6,117,1.59,100
+646,Valorant,The International 2024,MENA,Fnatic,Leaf,30267754,4794370,10,2025,5,3,164,1.21,60
+647,Fortnite,BLAST Premier World Final 2024,ASIA,Sentinels,Leaf,16310805,4976304,4,2024,7,7,96,1.26,100
+648,PUBG Mobile,LoL Worlds 2024,NA,Natus Vincere,Derke,21130357,4116838,11,2024,3,3,55,0.92,100
+649,Valorant,Fortnite FNCS Global Championship 2024,OCE,Fnatic,Sh1ro,14436887,1914191,11,2023,3,3,170,0.87,100
+650,PUBG Mobile,LoL Worlds 2025,EU,T1,Leaf,18451866,2818951,9,2025,5,5,288,1.44,100
+651,Fortnite,Valorant Champions 2025,OCE,Team Liquid,Leaf,15852959,454540,6,2024,5,1,111,1.57,20
+652,Valorant,PUBG Mobile World Cup 2025,SA,Vitality,Boombl4,10500684,1133399,14,2023,5,2,239,0.85,40
+653,Counter-Strike 2,Valorant Champions 2025,EU,OG,s1mple,28052427,3419860,6,2024,3,2,286,1.5,66.67
+654,Valorant,LoL Worlds 2025,MENA,Paper Rex,ZywOo,32921121,902219,3,2023,6,1,74,1.04,16.67
+655,League of Legends,Valorant Champions 2024,OCE,Team Liquid,Sh1ro,30818255,1924212,13,2025,6,5,80,1.29,83.33
+656,Dota 2,The International 2024,EU,Team Liquid,Nisha,38555332,1320392,12,2025,5,4,295,0.95,80
+657,PUBG Mobile,The International 2024,SA,Evil Geniuses,Nisha,9441852,4566999,6,2024,4,2,170,1.44,50
+658,Valorant,PUBG Mobile World Cup 2024,OCE,Cloud9,b1t,26907794,449367,12,2023,4,3,270,0.83,75
+659,Dota 2,BLAST Premier World Final 2024,ASIA,Evil Geniuses,ShowMaker,12182154,2658252,9,2024,5,1,79,1.14,20
+660,Valorant,Fortnite FNCS Global Championship 2024,EU,Paper Rex,Sh1ro,32830522,4855971,8,2024,7,5,75,1.43,71.43
+661,Dota 2,Valorant Champions 2025,OCE,T1,Keria,38921083,500712,8,2024,7,3,56,1.22,42.86
+662,League of Legends,BLAST Premier World Final 2024,OCE,FaZe Clan,ShowMaker,14092773,2532347,11,2025,4,2,262,1.24,50
+663,Valorant,PUBG Mobile World Cup 2024,ASIA,G2 Esports,ZywOo,13434441,2780677,13,2023,4,4,87,1.46,100
+664,Fortnite,LoL Worlds 2025,EU,Fnatic,Aspas,28818355,3161794,12,2024,4,4,249,0.96,100
+665,Counter-Strike 2,PUBG Mobile World Cup 2025,NA,OG,Boombl4,25432909,1386254,8,2024,5,3,125,1.37,60
+666,Fortnite,The International 2025,OCE,Team Spirit,Keria,21672465,521443,13,2023,6,2,99,0.83,33.33
+667,Dota 2,The International 2024,SA,FaZe Clan,Keria,35239668,4636131,5,2023,4,1,220,1.28,25
+668,PUBG Mobile,Valorant Champions 2024,NA,Team Liquid,s1mple,28983782,3845121,5,2023,3,2,56,1.39,66.67
+669,Counter-Strike 2,PUBG Mobile World Cup 2025,EU,Vitality,Derke,9405870,4247056,3,2023,7,5,137,1.04,71.43
+670,Counter-Strike 2,BLAST Premier World Final 2024,SA,G2 Esports,ShowMaker,38030080,696366,13,2023,7,1,260,0.85,14.29
+671,Counter-Strike 2,The International 2024,ASIA,Vitality,s1mple,32505165,1881506,3,2024,5,4,248,0.88,80
+672,PUBG Mobile,Valorant Champions 2025,NA,Fnatic,Faker,23443770,1033148,11,2023,3,2,136,1.49,66.67
+673,League of Legends,Valorant Champions 2025,ASIA,Team Spirit,b1t,28988720,1537503,14,2023,3,1,190,1.5,33.33
+674,Valorant,BLAST Premier World Final 2025,NA,Paper Rex,Aspas,3902888,869186,14,2025,3,2,75,1.33,66.67
+675,Dota 2,LoL Worlds 2025,NA,Sentinels,Ana,9871070,4547095,7,2025,6,5,278,1.2,83.33
+676,PUBG Mobile,PUBG Mobile World Cup 2024,NA,Astralis,NiKo,3012799,1892496,10,2025,6,5,164,1.55,83.33
+677,League of Legends,LoL Worlds 2024,EU,Paper Rex,NiKo,1613691,4605846,9,2025,7,1,52,1.25,14.29
+678,Fortnite,LoL Worlds 2024,ASIA,Cloud9,ZywOo,27105620,439693,5,2025,6,2,291,1.6,33.33
+679,Valorant,The International 2025,SA,G2 Esports,Nisha,37438984,4344100,4,2025,6,1,197,1.17,16.67
+680,Valorant,Valorant Champions 2024,ASIA,100 Thieves,Derke,12893414,1589672,5,2025,4,3,224,1.01,75
+681,Valorant,BLAST Premier World Final 2024,MENA,T1,NiKo,35519068,3534223,10,2023,3,1,52,1.42,33.33
+682,League of Legends,Valorant Champions 2025,MENA,FaZe Clan,TenZ,10358855,2045443,12,2025,6,2,93,1.27,33.33
+683,Fortnite,BLAST Premier World Final 2025,ASIA,Sentinels,Faker,15689500,1949412,12,2024,6,2,75,1.06,33.33
+684,PUBG Mobile,PUBG Mobile World Cup 2025,OCE,Natus Vincere,ZywOo,37423007,2332392,12,2025,7,4,206,1.16,57.14
+685,Fortnite,Valorant Champions 2024,ASIA,Natus Vincere,TenZ,31780325,2278446,12,2023,5,3,144,0.96,60
+686,Dota 2,Valorant Champions 2025,SA,Team Liquid,Faker,34301801,260089,13,2025,7,4,287,0.86,57.14
+687,Dota 2,PUBG Mobile World Cup 2024,OCE,OG,Faker,17987403,595327,9,2024,4,2,105,1.35,50
+688,Valorant,Fortnite FNCS Global Championship 2024,OCE,T1,NiKo,11458784,1938511,4,2025,5,1,228,1.18,20
+689,Fortnite,Valorant Champions 2024,NA,Vitality,Derke,38084369,4304684,9,2024,3,2,280,1,66.67
+690,Dota 2,Valorant Champions 2024,EU,Cloud9,b1t,20868597,3117235,4,2024,5,5,198,1.33,100
+691,League of Legends,LoL Worlds 2025,SA,Team Spirit,b1t,2942385,3692124,5,2023,5,2,144,1,40
+692,Valorant,PUBG Mobile World Cup 2025,ASIA,Team Liquid,Keria,17217063,2093789,11,2024,7,3,249,1.26,42.86
+693,Fortnite,Valorant Champions 2025,SA,FaZe Clan,Nisha,28611045,3989888,5,2024,5,4,275,1.34,80
+694,PUBG Mobile,The International 2024,MENA,Cloud9,s1mple,14430710,3172085,5,2025,7,5,297,1.56,71.43
+695,Fortnite,BLAST Premier World Final 2025,OCE,Fnatic,Derke,14219047,234279,12,2024,6,6,133,1.49,100
+696,Valorant,LoL Worlds 2024,NA,T1,Sh1ro,31039847,1689665,9,2024,4,2,148,1.51,50
+697,League of Legends,LoL Worlds 2024,OCE,Sentinels,Boombl4,34122180,2740889,6,2025,4,4,59,1.57,100
+698,Fortnite,The International 2024,OCE,Evil Geniuses,Faker,38179508,4628477,13,2023,5,4,291,1.16,80
+699,PUBG Mobile,BLAST Premier World Final 2025,MENA,Astralis,s1mple,32444884,4489148,11,2025,5,2,208,0.87,40
+700,Counter-Strike 2,BLAST Premier World Final 2025,ASIA,Natus Vincere,TenZ,25527103,4311026,5,2025,5,3,299,1.37,60
+701,Valorant,Valorant Champions 2025,OCE,Astralis,Ana,5413511,3575998,13,2024,7,6,152,0.88,85.71
+702,Counter-Strike 2,Fortnite FNCS Global Championship 2025,SA,G2 Esports,NiKo,39383742,1572351,8,2024,7,4,276,0.91,57.14
+703,League of Legends,PUBG Mobile World Cup 2025,MENA,G2 Esports,Derke,34212358,2085113,7,2024,6,6,129,0.97,100
+704,Fortnite,Valorant Champions 2025,OCE,Team Liquid,Leaf,10615449,2622083,6,2025,6,2,288,1.47,33.33
+705,Valorant,BLAST Premier World Final 2024,OCE,Team Spirit,Leaf,12507799,530232,14,2023,5,3,62,1.19,60
+706,Valorant,LoL Worlds 2024,OCE,FaZe Clan,Keria,30095223,3940564,14,2023,7,3,66,1,42.86
+707,PUBG Mobile,BLAST Premier World Final 2025,MENA,Team Spirit,Leaf,30829799,4596235,9,2023,7,1,235,1.17,14.29
+708,Valorant,LoL Worlds 2025,MENA,Paper Rex,Faker,21802681,2219358,12,2024,6,2,63,0.89,33.33
+709,Fortnite,PUBG Mobile World Cup 2024,EU,Cloud9,ZywOo,4454930,4019220,10,2024,7,6,170,1.03,85.71
+710,PUBG Mobile,LoL Worlds 2025,NA,Astralis,NiKo,1365971,2240242,3,2025,6,1,183,0.96,16.67
+711,League of Legends,Fortnite FNCS Global Championship 2024,SA,Team Spirit,b1t,31835101,3823016,14,2025,7,6,154,0.84,85.71
+712,Fortnite,The International 2024,SA,100 Thieves,ZywOo,37347471,4541094,5,2025,6,1,262,1.04,16.67
+713,Dota 2,BLAST Premier World Final 2025,ASIA,Sentinels,Leaf,38608992,982412,6,2025,7,5,186,1.55,71.43
+714,Counter-Strike 2,BLAST Premier World Final 2024,MENA,Fnatic,Boombl4,12642760,1575890,9,2024,7,2,249,1.56,28.57
+715,League of Legends,The International 2024,ASIA,Team Spirit,ZywOo,23666774,3449449,13,2024,3,2,230,1.44,66.67
+716,Counter-Strike 2,BLAST Premier World Final 2024,MENA,Astralis,NiKo,28999952,4646031,3,2025,3,3,269,0.92,100
+717,Dota 2,BLAST Premier World Final 2024,NA,Sentinels,ZywOo,35084260,1914522,10,2024,4,2,282,0.81,50
+718,Valorant,The International 2025,MENA,100 Thieves,NiKo,1313239,982540,3,2025,6,3,251,1.03,50
+719,Fortnite,Valorant Champions 2025,ASIA,Evil Geniuses,ZywOo,13641035,2066847,8,2023,4,3,182,1.3,75
+720,Fortnite,BLAST Premier World Final 2025,ASIA,100 Thieves,Nisha,21147005,4425622,13,2024,7,3,171,1.14,42.86
+721,Counter-Strike 2,Fortnite FNCS Global Championship 2024,SA,100 Thieves,ShowMaker,30655719,1038828,7,2025,5,3,117,1.5,60
+722,Dota 2,LoL Worlds 2025,NA,Evil Geniuses,Nisha,1448124,4691185,12,2024,4,1,131,1.06,25
+723,Fortnite,Fortnite FNCS Global Championship 2025,MENA,Team Liquid,s1mple,33340270,2007497,11,2023,4,2,142,1.46,50
+724,Valorant,Valorant Champions 2024,OCE,T1,Nisha,38872278,4082185,11,2023,6,6,65,1.45,100
+725,League of Legends,PUBG Mobile World Cup 2025,MENA,FaZe Clan,TenZ,22701031,3158673,14,2024,4,3,223,1.24,75
+726,Fortnite,Fortnite FNCS Global Championship 2024,EU,T1,Nisha,39347117,901157,9,2024,3,2,118,1.51,66.67
+727,Counter-Strike 2,LoL Worlds 2024,NA,Sentinels,TenZ,32026625,1960824,7,2025,7,7,233,1.06,100
+728,PUBG Mobile,PUBG Mobile World Cup 2025,EU,T1,ZywOo,20758701,3310905,3,2024,5,3,126,1.17,60
+729,League of Legends,PUBG Mobile World Cup 2024,ASIA,100 Thieves,Aspas,38347981,147626,8,2023,3,3,54,1.3,100
+730,Fortnite,Fortnite FNCS Global Championship 2024,MENA,Astralis,Leaf,14037408,3544599,3,2023,4,3,178,0.84,75
+731,Dota 2,The International 2025,NA,G2 Esports,Sh1ro,26376794,3455936,6,2023,7,4,296,1.45,57.14
+732,Counter-Strike 2,LoL Worlds 2025,ASIA,Paper Rex,Faker,2983661,1000718,11,2025,6,1,195,1.48,16.67
+733,Fortnite,LoL Worlds 2025,NA,G2 Esports,Nisha,35395051,4165299,3,2025,4,4,133,1.29,100
+734,Dota 2,LoL Worlds 2024,OCE,T1,Leaf,17757276,103157,12,2024,3,2,89,1.43,66.67
+735,Counter-Strike 2,PUBG Mobile World Cup 2024,ASIA,100 Thieves,Derke,27306193,3276879,7,2025,7,7,118,1.42,100
+736,Fortnite,Valorant Champions 2024,SA,Sentinels,Aspas,14487290,695615,12,2025,4,1,133,1.46,25
+737,League of Legends,PUBG Mobile World Cup 2025,SA,Team Liquid,ShowMaker,5342495,261396,9,2023,6,3,131,1.46,50
+738,Dota 2,BLAST Premier World Final 2024,SA,Evil Geniuses,Boombl4,27865018,2897439,11,2025,5,4,167,1.45,80
+739,Valorant,The International 2024,NA,Evil Geniuses,Sh1ro,22142908,772326,11,2023,5,3,96,1.59,60
+740,PUBG Mobile,The International 2025,MENA,Cloud9,Leaf,12358425,4100675,3,2023,7,6,205,1.53,85.71
+741,Dota 2,The International 2024,MENA,Evil Geniuses,Ana,3692470,2936666,3,2024,6,5,183,1.26,83.33
+742,League of Legends,BLAST Premier World Final 2024,ASIA,FaZe Clan,Aspas,4608190,3463351,12,2024,4,3,81,1.37,75
+743,Counter-Strike 2,BLAST Premier World Final 2025,EU,Fnatic,Faker,35924994,152194,11,2024,4,2,60,0.87,50
+744,League of Legends,BLAST Premier World Final 2025,ASIA,T1,NiKo,24316199,602319,6,2024,4,1,220,1.09,25
+745,League of Legends,Fortnite FNCS Global Championship 2025,NA,Fnatic,s1mple,35074305,786117,8,2023,6,2,213,1.5,33.33
+746,PUBG Mobile,The International 2025,EU,FaZe Clan,ShowMaker,27846548,2916668,14,2025,7,1,172,0.82,14.29
+747,Dota 2,LoL Worlds 2025,OCE,T1,NiKo,3195977,333622,14,2023,7,4,107,1.37,57.14
+748,Dota 2,BLAST Premier World Final 2024,OCE,Cloud9,Nisha,2188572,768971,11,2023,3,1,238,1.15,33.33
+749,Fortnite,The International 2025,NA,Vitality,ZywOo,8545000,4041469,4,2025,4,2,105,1.51,50
+750,Dota 2,Valorant Champions 2024,MENA,OG,Keria,30528299,2964896,10,2024,5,1,232,1.38,20
+751,League of Legends,Valorant Champions 2025,EU,Paper Rex,s1mple,12293278,3034464,11,2024,6,4,201,1.44,66.67
+752,Fortnite,BLAST Premier World Final 2025,MENA,Team Liquid,Sh1ro,5452439,3531872,4,2024,7,1,208,0.9,14.29
+753,Valorant,Valorant Champions 2025,ASIA,Cloud9,NiKo,17091889,2090703,8,2025,5,4,187,0.9,80
+754,Fortnite,LoL Worlds 2024,MENA,Fnatic,Boombl4,8236654,4852509,4,2024,6,2,222,1.29,33.33
+755,PUBG Mobile,PUBG Mobile World Cup 2024,NA,T1,Aspas,1546683,4282293,3,2024,7,2,257,0.96,28.57
+756,League of Legends,Valorant Champions 2024,NA,Team Liquid,Boombl4,6212178,1225300,13,2024,7,7,282,0.82,100
+757,Valorant,Fortnite FNCS Global Championship 2024,SA,FaZe Clan,TenZ,12511062,1661030,11,2025,4,2,113,0.85,50
+758,Dota 2,Valorant Champions 2024,OCE,Team Liquid,Boombl4,21489925,2276330,12,2023,3,3,232,1.18,100
+759,Valorant,BLAST Premier World Final 2024,EU,Evil Geniuses,s1mple,25782049,558552,7,2024,4,1,181,1.08,25
+760,Dota 2,The International 2025,OCE,Vitality,Faker,18262708,1990387,9,2025,7,1,210,1.46,14.29
+761,PUBG Mobile,PUBG Mobile World Cup 2024,OCE,Paper Rex,b1t,29933360,2955445,6,2025,6,5,217,0.88,83.33
+762,Valorant,LoL Worlds 2024,ASIA,Natus Vincere,Boombl4,3311951,2038140,5,2024,3,3,298,1.48,100
+763,Fortnite,Fortnite FNCS Global Championship 2024,NA,Astralis,Faker,13270237,887812,9,2025,6,3,292,1.29,50
+764,Counter-Strike 2,Valorant Champions 2025,EU,Astralis,Keria,36737459,2910918,6,2024,5,3,183,1.04,60
+765,Fortnite,LoL Worlds 2025,NA,Paper Rex,Aspas,16167208,3242760,7,2023,5,1,80,1.17,20
+766,Counter-Strike 2,PUBG Mobile World Cup 2025,MENA,T1,Sh1ro,12941297,2580982,3,2023,6,2,111,1.59,33.33
+767,Counter-Strike 2,LoL Worlds 2024,SA,Paper Rex,Aspas,39065045,1221556,13,2025,3,2,236,1.01,66.67
+768,League of Legends,Fortnite FNCS Global Championship 2024,SA,Natus Vincere,Derke,14331848,1137994,13,2024,7,3,170,1.12,42.86
+769,Fortnite,Valorant Champions 2025,OCE,Evil Geniuses,ZywOo,12862287,1005375,11,2025,3,1,87,1.24,33.33
+770,Counter-Strike 2,BLAST Premier World Final 2024,EU,Evil Geniuses,Leaf,32810003,2344485,11,2025,4,1,169,1.14,25
+771,Valorant,PUBG Mobile World Cup 2025,ASIA,Natus Vincere,Ana,767773,4120796,4,2025,4,1,237,1.48,25
+772,PUBG Mobile,PUBG Mobile World Cup 2024,NA,T1,s1mple,24840140,4131400,9,2023,7,3,59,1.46,42.86
+773,Counter-Strike 2,Valorant Champions 2025,EU,Sentinels,Nisha,34671642,2102655,10,2024,3,3,263,1.49,100
+774,Fortnite,BLAST Premier World Final 2025,ASIA,G2 Esports,Derke,9811224,523854,13,2024,7,1,276,1.06,14.29
+775,Valorant,Valorant Champions 2025,EU,Cloud9,ShowMaker,4866939,4717943,12,2023,6,3,250,0.88,50
+776,Fortnite,LoL Worlds 2025,NA,Evil Geniuses,NiKo,11581961,1659002,3,2024,7,4,166,1.51,57.14
+777,Fortnite,LoL Worlds 2024,EU,Natus Vincere,Keria,37779455,4941036,8,2024,6,2,223,1.04,33.33
+778,Dota 2,Valorant Champions 2024,ASIA,OG,ShowMaker,31254090,425480,3,2023,7,2,203,1.05,28.57
+779,Dota 2,PUBG Mobile World Cup 2024,MENA,Team Liquid,Sh1ro,19977376,356201,10,2025,3,2,128,1.27,66.67
+780,Counter-Strike 2,BLAST Premier World Final 2025,MENA,Cloud9,Sh1ro,15876326,2584646,5,2024,3,3,53,1.27,100
+781,Counter-Strike 2,The International 2025,MENA,Evil Geniuses,Nisha,30194535,2385959,8,2024,4,2,187,1.36,50
+782,Fortnite,LoL Worlds 2025,SA,Cloud9,Sh1ro,11518348,1387827,11,2024,6,1,217,1.49,16.67
+783,Valorant,Valorant Champions 2025,NA,Cloud9,Boombl4,8904067,2072029,11,2025,5,1,195,1.5,20
+784,League of Legends,Fortnite FNCS Global Championship 2024,OCE,Paper Rex,Keria,28001654,2214094,11,2024,4,1,94,1.07,25
+785,Counter-Strike 2,PUBG Mobile World Cup 2025,OCE,Evil Geniuses,Keria,33530157,1713535,9,2024,6,4,117,1.28,66.67
+786,Valorant,The International 2025,NA,Sentinels,Nisha,35663665,4563410,13,2025,4,4,248,0.96,100
+787,PUBG Mobile,BLAST Premier World Final 2024,ASIA,Vitality,Leaf,17404543,2490357,14,2024,5,4,256,1.18,80
+788,Fortnite,Valorant Champions 2025,ASIA,Team Spirit,b1t,33561840,1819269,13,2024,3,3,267,1.46,100
+789,Dota 2,Valorant Champions 2024,EU,Sentinels,ZywOo,13840338,3130265,5,2025,7,5,77,1.57,71.43
+790,Dota 2,Valorant Champions 2024,SA,G2 Esports,Aspas,1792231,3780556,8,2025,4,3,190,1.04,75
+791,Fortnite,LoL Worlds 2025,MENA,Team Liquid,NiKo,34457587,3620751,11,2024,4,1,224,0.93,25
+792,Valorant,LoL Worlds 2025,MENA,Evil Geniuses,Derke,23574900,2272330,4,2025,5,5,199,1.03,100
+793,Fortnite,The International 2025,EU,Sentinels,Faker,39960833,4036050,10,2025,3,2,81,0.99,66.67
+794,Fortnite,BLAST Premier World Final 2024,EU,Paper Rex,Boombl4,32554348,3889387,11,2025,6,4,134,1.53,66.67
+795,Fortnite,PUBG Mobile World Cup 2025,OCE,Astralis,NiKo,20073356,3942188,11,2024,3,3,105,0.89,100
+796,PUBG Mobile,The International 2024,MENA,FaZe Clan,Nisha,33298313,265184,6,2023,7,2,253,1.24,28.57
+797,Counter-Strike 2,The International 2024,NA,Vitality,s1mple,14315823,2372796,12,2023,5,1,60,1.07,20
+798,Fortnite,LoL Worlds 2025,ASIA,Cloud9,ZywOo,13325234,4190206,11,2025,5,2,102,1.01,40
+799,Fortnite,PUBG Mobile World Cup 2025,NA,Evil Geniuses,Derke,34822613,2702366,13,2024,3,2,65,1.55,66.67
+800,PUBG Mobile,The International 2025,EU,Sentinels,Nisha,28704581,3582313,8,2024,4,2,229,1.36,50
+801,PUBG Mobile,PUBG Mobile World Cup 2025,MENA,100 Thieves,NiKo,5897047,4323833,4,2023,6,1,261,1.42,16.67
+802,PUBG Mobile,LoL Worlds 2025,OCE,T1,Leaf,23133648,2325516,9,2024,7,6,144,1.04,85.71
+803,Dota 2,Valorant Champions 2024,EU,Fnatic,Aspas,10896449,4235934,12,2023,6,3,257,1.45,50
+804,Counter-Strike 2,Fortnite FNCS Global Championship 2024,OCE,Vitality,Boombl4,36446811,1054188,6,2025,6,2,121,1.08,33.33
+805,Counter-Strike 2,The International 2024,SA,100 Thieves,Boombl4,33814440,3781361,5,2023,4,3,192,1.15,75
+806,League of Legends,Valorant Champions 2024,NA,Sentinels,ZywOo,26029503,1766565,6,2024,6,3,106,1.46,50
+807,Fortnite,The International 2024,ASIA,Team Liquid,Ana,2007700,2239132,9,2023,5,5,300,0.94,100
+808,Counter-Strike 2,Fortnite FNCS Global Championship 2024,MENA,Vitality,ShowMaker,1094964,551779,7,2023,3,3,155,1.55,100
+809,Dota 2,Fortnite FNCS Global Championship 2025,SA,Fnatic,NiKo,875093,3432098,3,2025,5,3,81,1.45,60
+810,Dota 2,LoL Worlds 2025,SA,100 Thieves,Boombl4,19720004,759853,5,2023,7,5,56,1.22,71.43
+811,Valorant,PUBG Mobile World Cup 2024,OCE,Natus Vincere,TenZ,24801769,888642,11,2023,7,7,187,1.34,100
+812,PUBG Mobile,PUBG Mobile World Cup 2024,MENA,FaZe Clan,Boombl4,10992682,2012676,12,2024,4,2,87,1.1,50
+813,PUBG Mobile,LoL Worlds 2025,SA,Team Liquid,Aspas,32028389,2383786,6,2023,6,5,154,1.26,83.33
+814,Counter-Strike 2,The International 2024,SA,Team Liquid,Faker,35145206,1754372,13,2024,4,3,98,1.17,75
+815,Valorant,LoL Worlds 2024,SA,Team Spirit,s1mple,23392100,2647317,3,2023,5,5,108,1,100
+816,Valorant,BLAST Premier World Final 2024,NA,Evil Geniuses,ShowMaker,13638697,1986139,11,2025,7,5,208,1.28,71.43
+817,Counter-Strike 2,BLAST Premier World Final 2025,ASIA,Team Spirit,Aspas,24926248,4013040,6,2024,6,3,120,1.48,50
+818,PUBG Mobile,Fortnite FNCS Global Championship 2025,MENA,Fnatic,Aspas,1603952,1584395,14,2025,4,2,298,1.48,50
+819,PUBG Mobile,Valorant Champions 2024,NA,Vitality,ZywOo,9246447,2752548,14,2024,6,2,247,0.86,33.33
+820,Valorant,BLAST Premier World Final 2025,OCE,Cloud9,NiKo,39650239,927581,7,2023,5,3,238,1.55,60
+821,PUBG Mobile,PUBG Mobile World Cup 2025,SA,Team Spirit,Faker,14563526,1367545,8,2025,7,7,238,1.02,100
+822,Fortnite,PUBG Mobile World Cup 2024,MENA,OG,Ana,10722389,4164777,6,2024,5,5,138,1.14,100
+823,PUBG Mobile,Valorant Champions 2024,ASIA,Astralis,Boombl4,35631759,2961771,6,2023,5,3,156,0.95,60
+824,League of Legends,Valorant Champions 2025,ASIA,Team Liquid,TenZ,33651872,4912477,5,2025,4,4,137,1.04,100
+825,Dota 2,PUBG Mobile World Cup 2024,NA,Sentinels,ShowMaker,6543274,2631555,10,2024,5,5,63,1.51,100
+826,Valorant,Valorant Champions 2024,OCE,Paper Rex,TenZ,15946026,2987801,10,2023,5,4,170,0.84,80
+827,Dota 2,PUBG Mobile World Cup 2025,OCE,T1,Faker,1879834,1362341,4,2024,4,1,287,1.31,25
+828,Fortnite,The International 2025,SA,G2 Esports,Ana,8057032,4244394,4,2025,5,2,96,1.45,40
+829,Counter-Strike 2,Fortnite FNCS Global Championship 2025,OCE,Natus Vincere,NiKo,5032543,459800,10,2023,5,5,261,1.15,100
+830,Valorant,The International 2025,ASIA,Team Spirit,ZywOo,19798415,1996705,14,2025,5,4,69,1.26,80
+831,PUBG Mobile,PUBG Mobile World Cup 2025,NA,Paper Rex,Keria,12136503,976029,6,2025,5,5,81,1.13,100
+832,League of Legends,Valorant Champions 2025,OCE,Cloud9,Sh1ro,32565833,3557111,14,2024,3,1,179,1.53,33.33
+833,Counter-Strike 2,BLAST Premier World Final 2024,ASIA,100 Thieves,Boombl4,3387915,211769,12,2024,3,3,143,1.46,100
+834,Valorant,PUBG Mobile World Cup 2025,NA,Evil Geniuses,Sh1ro,20495014,2675299,3,2025,6,4,105,1.44,66.67
+835,Counter-Strike 2,The International 2024,MENA,Vitality,ShowMaker,33443331,921238,8,2024,3,3,128,1.5,100
+836,League of Legends,Valorant Champions 2025,SA,Cloud9,Leaf,21502402,460126,10,2025,5,1,69,1.25,20
+837,Fortnite,BLAST Premier World Final 2025,ASIA,FaZe Clan,b1t,38390946,3931490,14,2025,5,1,110,1.41,20
+838,Valorant,BLAST Premier World Final 2024,ASIA,Evil Geniuses,Nisha,39164086,4401833,7,2025,6,1,87,0.8,16.67
+839,Dota 2,Fortnite FNCS Global Championship 2024,ASIA,Team Liquid,Sh1ro,29351505,1297096,8,2023,4,4,63,1.55,100
+840,Dota 2,LoL Worlds 2024,ASIA,Team Liquid,Boombl4,9319671,1137426,10,2024,5,1,179,1.29,20
+841,Fortnite,PUBG Mobile World Cup 2024,MENA,Natus Vincere,Aspas,8790853,3747441,4,2023,6,4,174,0.81,66.67
+842,League of Legends,BLAST Premier World Final 2025,MENA,Team Liquid,Faker,20020254,4554868,11,2023,4,4,162,1,100
+843,League of Legends,LoL Worlds 2024,ASIA,Natus Vincere,Sh1ro,21372628,1930132,7,2024,6,6,60,1.36,100
+844,Counter-Strike 2,Valorant Champions 2025,SA,Vitality,s1mple,10093287,1272945,3,2025,5,5,83,1.39,100
+845,Valorant,BLAST Premier World Final 2025,NA,T1,Ana,27139114,3505060,5,2023,3,1,300,0.89,33.33
+846,PUBG Mobile,LoL Worlds 2024,NA,FaZe Clan,Leaf,24691095,4901301,13,2023,7,5,82,1.48,71.43
+847,Valorant,Valorant Champions 2025,MENA,Natus Vincere,Aspas,38105722,3793972,9,2024,3,3,121,1.53,100
+848,Fortnite,Fortnite FNCS Global Championship 2025,NA,Team Spirit,Boombl4,10553215,4366790,13,2024,4,1,95,0.95,25
+849,Counter-Strike 2,PUBG Mobile World Cup 2025,OCE,Sentinels,Sh1ro,3268208,892889,8,2023,7,6,143,1.38,85.71
+850,PUBG Mobile,PUBG Mobile World Cup 2024,SA,G2 Esports,Leaf,21267549,371014,3,2024,6,4,295,1.11,66.67
+851,League of Legends,LoL Worlds 2024,EU,Team Spirit,Aspas,35392147,4667024,12,2023,3,2,115,0.9,66.67
+852,Fortnite,LoL Worlds 2024,MENA,Evil Geniuses,Boombl4,23622366,1002282,12,2023,6,5,81,1.05,83.33
+853,League of Legends,Fortnite FNCS Global Championship 2024,EU,Evil Geniuses,NiKo,6413805,1800178,8,2023,5,3,210,0.82,60
+854,Counter-Strike 2,PUBG Mobile World Cup 2025,OCE,Natus Vincere,Aspas,10030276,3783389,5,2023,3,1,131,1.19,33.33
+855,Fortnite,The International 2024,OCE,Paper Rex,Leaf,18925742,191680,7,2025,5,1,169,1.05,20
+856,Dota 2,BLAST Premier World Final 2025,EU,Cloud9,Ana,21198318,2220141,3,2025,6,6,196,1.24,100
+857,Fortnite,LoL Worlds 2025,EU,Natus Vincere,Leaf,29438903,3298543,3,2024,4,4,238,1.56,100
+858,Fortnite,LoL Worlds 2025,NA,Vitality,b1t,13036545,751770,11,2025,5,5,148,1.46,100
+859,Valorant,LoL Worlds 2024,MENA,Astralis,TenZ,21231415,4676855,13,2025,7,6,117,1.47,85.71
+860,League of Legends,Valorant Champions 2024,EU,Natus Vincere,s1mple,2070440,2168132,11,2024,6,2,130,1.02,33.33
+861,Valorant,Fortnite FNCS Global Championship 2025,ASIA,FaZe Clan,s1mple,2337831,2991342,7,2024,6,6,148,1.57,100
+862,Counter-Strike 2,Valorant Champions 2025,NA,G2 Esports,Boombl4,27293298,144154,4,2025,4,4,121,0.95,100
+863,Fortnite,PUBG Mobile World Cup 2025,OCE,Vitality,Ana,33128507,3497134,10,2025,3,3,245,1.37,100
+864,Fortnite,Fortnite FNCS Global Championship 2024,EU,T1,ZywOo,22347659,1762701,10,2024,6,3,144,1.02,50
+865,Counter-Strike 2,LoL Worlds 2025,SA,Vitality,s1mple,22277148,1375711,10,2023,5,1,111,1.58,20
+866,Counter-Strike 2,PUBG Mobile World Cup 2024,MENA,Sentinels,Faker,17364511,3188356,3,2024,4,3,289,1.42,75
+867,PUBG Mobile,The International 2025,MENA,Cloud9,Keria,12370540,4135347,11,2025,7,5,208,0.87,71.43
+868,Counter-Strike 2,The International 2024,SA,Team Liquid,Faker,26504823,2930446,12,2025,5,5,66,0.8,100
+869,League of Legends,LoL Worlds 2025,MENA,FaZe Clan,Faker,18604193,843733,3,2023,6,1,257,1.37,16.67
+870,League of Legends,Valorant Champions 2024,NA,Vitality,Sh1ro,8160478,4888573,7,2024,6,4,208,1.57,66.67
+871,League of Legends,Fortnite FNCS Global Championship 2024,ASIA,G2 Esports,NiKo,32715653,3221938,4,2025,5,3,175,1.48,60
+872,Counter-Strike 2,BLAST Premier World Final 2025,NA,FaZe Clan,Leaf,29305867,4927536,8,2023,6,1,135,1.43,16.67
+873,PUBG Mobile,PUBG Mobile World Cup 2024,ASIA,Team Spirit,Leaf,38636090,2566091,6,2025,3,2,149,1.45,66.67
+874,Valorant,BLAST Premier World Final 2024,NA,Vitality,Derke,38546016,1265884,4,2024,5,5,131,1.07,100
+875,League of Legends,Fortnite FNCS Global Championship 2024,ASIA,Team Liquid,Faker,13374317,902361,6,2024,6,6,215,1.23,100
+876,League of Legends,Fortnite FNCS Global Championship 2024,SA,Vitality,Leaf,13856744,2209436,10,2025,3,3,95,0.92,100
+877,PUBG Mobile,Fortnite FNCS Global Championship 2025,MENA,OG,Boombl4,31035278,2725642,7,2023,6,6,170,0.87,100
+878,League of Legends,The International 2024,SA,100 Thieves,Aspas,7390324,956506,12,2024,6,1,85,0.95,16.67
+879,League of Legends,Fortnite FNCS Global Championship 2024,ASIA,Sentinels,Ana,9201325,1283104,10,2025,6,5,196,1.26,83.33
+880,PUBG Mobile,LoL Worlds 2024,OCE,Sentinels,Keria,15436292,4118003,6,2025,4,4,101,1.21,100
+881,Dota 2,PUBG Mobile World Cup 2025,OCE,Natus Vincere,Leaf,33251878,4716923,7,2023,4,2,143,1.11,50
+882,League of Legends,BLAST Premier World Final 2025,SA,Cloud9,TenZ,4866239,1650954,5,2024,7,7,249,1.17,100
+883,Valorant,LoL Worlds 2025,EU,T1,Derke,2751955,2269113,10,2024,4,1,113,1.23,25
+884,Fortnite,Fortnite FNCS Global Championship 2024,NA,Paper Rex,NiKo,7411343,3938873,7,2025,5,2,248,0.99,40
+885,Dota 2,The International 2025,OCE,Paper Rex,Leaf,5611871,4346804,8,2023,5,1,214,1.02,20
+886,Fortnite,PUBG Mobile World Cup 2024,SA,Evil Geniuses,b1t,8816802,1079280,14,2024,4,1,138,1.14,25
+887,Valorant,The International 2024,MENA,Cloud9,Boombl4,3691883,1328505,13,2025,7,2,231,1.38,28.57
+888,Dota 2,Valorant Champions 2024,EU,Paper Rex,s1mple,33127587,2481931,14,2024,3,3,101,1.58,100
+889,League of Legends,Fortnite FNCS Global Championship 2024,EU,100 Thieves,ShowMaker,27896966,1528023,11,2025,6,1,78,1.2,16.67
+890,Dota 2,PUBG Mobile World Cup 2024,ASIA,FaZe Clan,Faker,8401190,2449871,8,2023,3,2,128,1.12,66.67
+891,PUBG Mobile,Valorant Champions 2025,OCE,OG,Derke,959440,3662458,13,2025,3,2,165,1.36,66.67
+892,PUBG Mobile,Fortnite FNCS Global Championship 2024,NA,G2 Esports,Boombl4,19286638,186723,5,2024,3,2,234,1.25,66.67
+893,Fortnite,BLAST Premier World Final 2024,EU,T1,Leaf,23271768,2636008,8,2024,3,3,101,1.54,100
+894,Dota 2,Valorant Champions 2024,SA,Natus Vincere,s1mple,4015700,1873197,9,2024,5,1,164,0.86,20
+895,PUBG Mobile,The International 2025,SA,FaZe Clan,Sh1ro,39449999,3908591,7,2024,5,1,203,0.88,20
+896,Valorant,Valorant Champions 2024,EU,Cloud9,TenZ,35674908,2059401,12,2023,4,3,127,1.53,75
+897,League of Legends,PUBG Mobile World Cup 2024,NA,Evil Geniuses,Derke,27017421,4366873,3,2025,7,1,223,1.18,14.29
+898,Counter-Strike 2,LoL Worlds 2025,MENA,Cloud9,Leaf,25520693,1036798,7,2023,3,3,289,1.13,100
+899,PUBG Mobile,Valorant Champions 2025,ASIA,Paper Rex,TenZ,787545,4398120,4,2025,3,2,246,1.28,66.67
+900,PUBG Mobile,Fortnite FNCS Global Championship 2024,ASIA,FaZe Clan,TenZ,27738782,3447905,4,2023,4,3,171,1.6,75
+901,Dota 2,The International 2024,SA,G2 Esports,ShowMaker,2025611,2103340,7,2025,6,6,297,1.4,100
+902,Dota 2,LoL Worlds 2024,MENA,Team Spirit,TenZ,3559787,4763597,11,2023,6,6,158,0.93,100
+903,League of Legends,PUBG Mobile World Cup 2025,OCE,T1,Faker,15834268,4506828,14,2025,4,1,281,1.51,25
+904,Dota 2,BLAST Premier World Final 2025,SA,Team Liquid,Boombl4,28393914,75063,13,2025,4,3,289,0.9,75
+905,PUBG Mobile,Fortnite FNCS Global Championship 2024,NA,Cloud9,b1t,21242118,1899961,6,2023,6,1,182,0.97,16.67
+906,Fortnite,BLAST Premier World Final 2024,OCE,Cloud9,Aspas,1739122,2571249,3,2023,7,1,131,0.8,14.29
+907,Counter-Strike 2,BLAST Premier World Final 2025,NA,Team Spirit,TenZ,38115933,4441226,12,2023,4,3,195,0.98,75
+908,Valorant,LoL Worlds 2025,SA,T1,Leaf,39466932,475450,10,2023,7,2,73,0.8,28.57
+909,Fortnite,LoL Worlds 2024,ASIA,FaZe Clan,Keria,29601662,4454925,13,2024,7,4,59,1.16,57.14
+910,Dota 2,The International 2024,SA,Vitality,ShowMaker,37904139,4839710,5,2024,3,1,157,0.81,33.33
+911,League of Legends,Fortnite FNCS Global Championship 2024,ASIA,OG,Derke,20670039,3372892,5,2023,7,2,220,1.3,28.57
+912,Fortnite,PUBG Mobile World Cup 2024,SA,OG,NiKo,29468136,2281226,6,2025,6,1,170,1.01,16.67
+913,Valorant,Valorant Champions 2025,ASIA,Vitality,NiKo,9536815,2545268,5,2023,4,4,265,1.2,100
+914,Valorant,Fortnite FNCS Global Championship 2024,SA,Team Liquid,Derke,2301594,3475272,14,2025,6,1,262,1.19,16.67
+915,Dota 2,LoL Worlds 2024,NA,FaZe Clan,Faker,10392039,3387456,12,2025,4,1,260,0.84,25
+916,Fortnite,BLAST Premier World Final 2024,NA,G2 Esports,Faker,16567677,4047121,5,2025,5,1,78,1.13,20
+917,Valorant,Fortnite FNCS Global Championship 2024,ASIA,Cloud9,Faker,2779736,2411662,5,2023,3,3,185,1.43,100
+918,Dota 2,Fortnite FNCS Global Championship 2025,EU,Team Liquid,ShowMaker,33557241,3893989,11,2024,3,2,133,0.85,66.67
+919,League of Legends,PUBG Mobile World Cup 2024,MENA,Paper Rex,ShowMaker,32267416,1762262,12,2023,3,3,272,1.53,100
+920,Counter-Strike 2,LoL Worlds 2024,SA,100 Thieves,Derke,28289191,2983391,7,2024,3,1,208,1.57,33.33
+921,PUBG Mobile,The International 2025,NA,Fnatic,Faker,11435268,4087759,10,2024,4,3,200,0.8,75
+922,Counter-Strike 2,PUBG Mobile World Cup 2025,SA,Cloud9,Leaf,25929485,4876479,7,2024,4,2,270,0.84,50
+923,PUBG Mobile,Fortnite FNCS Global Championship 2025,ASIA,G2 Esports,Ana,3885269,2220421,9,2023,6,1,94,1.33,16.67
+924,Valorant,The International 2024,MENA,FaZe Clan,ZywOo,12495425,4559873,10,2024,5,4,210,1.27,80
+925,Valorant,Fortnite FNCS Global Championship 2024,EU,Evil Geniuses,b1t,38839329,1763932,9,2023,6,4,159,0.83,66.67
+926,Fortnite,Valorant Champions 2025,ASIA,G2 Esports,Leaf,5755873,2976517,6,2025,4,3,151,1.22,75
+927,League of Legends,The International 2025,NA,FaZe Clan,Aspas,18321301,1149354,13,2024,7,6,236,1.21,85.71
+928,PUBG Mobile,The International 2024,MENA,Astralis,ZywOo,28728333,4169174,12,2025,3,3,171,1.21,100
+929,Fortnite,BLAST Premier World Final 2024,SA,G2 Esports,ShowMaker,21875005,1987068,4,2025,4,1,63,0.96,25
+930,Fortnite,The International 2025,ASIA,100 Thieves,Aspas,35515955,4497044,7,2024,5,4,55,1.02,80
+931,Counter-Strike 2,LoL Worlds 2025,OCE,G2 Esports,s1mple,10630938,4206639,4,2025,6,2,193,0.86,33.33
+932,Counter-Strike 2,Fortnite FNCS Global Championship 2025,NA,G2 Esports,NiKo,6935127,2321945,10,2023,4,2,282,0.96,50
+933,Dota 2,LoL Worlds 2025,MENA,T1,Nisha,35245825,1693341,11,2025,7,5,135,1.24,71.43
+934,PUBG Mobile,BLAST Premier World Final 2024,OCE,OG,Boombl4,16691808,1025721,14,2025,6,1,50,1.16,16.67
+935,Dota 2,LoL Worlds 2025,NA,Team Liquid,TenZ,34324993,2248217,9,2025,5,5,226,1.15,100
+936,Dota 2,BLAST Premier World Final 2024,NA,Team Liquid,TenZ,4905091,4924438,11,2024,5,2,190,0.93,40
+937,Fortnite,LoL Worlds 2025,NA,Evil Geniuses,Ana,18151579,4975891,10,2025,4,3,280,1.13,75
+938,PUBG Mobile,The International 2024,MENA,Astralis,s1mple,28657989,1773287,11,2023,3,3,242,1.09,100
+939,Fortnite,Fortnite FNCS Global Championship 2024,MENA,Cloud9,ShowMaker,23620196,2633844,9,2025,4,2,176,1.36,50
+940,Fortnite,LoL Worlds 2024,MENA,Cloud9,Ana,30693595,168956,13,2025,4,3,167,0.82,75
+941,Valorant,Fortnite FNCS Global Championship 2025,EU,Evil Geniuses,Aspas,4360053,2982486,3,2024,4,1,220,1.27,25
+942,League of Legends,LoL Worlds 2025,SA,Cloud9,Derke,19819554,3820747,4,2023,6,1,246,1.04,16.67
+943,PUBG Mobile,LoL Worlds 2024,SA,Evil Geniuses,s1mple,6962772,3891204,14,2024,5,1,124,1.51,20
+944,PUBG Mobile,BLAST Premier World Final 2024,NA,Astralis,Leaf,34723462,4100458,5,2023,4,3,55,1.27,75
+945,Dota 2,Valorant Champions 2025,ASIA,Astralis,ZywOo,7429220,77875,3,2023,7,5,105,1.44,71.43
+946,Counter-Strike 2,LoL Worlds 2024,OCE,Sentinels,Derke,27211642,2852615,8,2023,5,4,259,1.12,80
+947,Fortnite,BLAST Premier World Final 2025,NA,Fnatic,Leaf,17705110,1128386,3,2024,6,4,232,1.28,66.67
+948,Dota 2,BLAST Premier World Final 2025,ASIA,G2 Esports,Leaf,23583853,1776518,11,2025,6,6,81,1.45,100
+949,Fortnite,The International 2025,SA,Cloud9,Derke,16398923,3365236,10,2023,5,2,138,1.59,40
+950,Fortnite,BLAST Premier World Final 2024,OCE,Natus Vincere,TenZ,31777698,3491482,14,2025,4,2,117,1.58,50
+951,Dota 2,BLAST Premier World Final 2025,SA,Natus Vincere,Boombl4,24746548,442239,13,2025,7,6,65,1.06,85.71
+952,PUBG Mobile,Fortnite FNCS Global Championship 2024,ASIA,Sentinels,Sh1ro,38353131,277379,12,2025,3,2,254,1.06,66.67
+953,Fortnite,The International 2025,ASIA,Astralis,b1t,18276597,4613981,6,2024,6,5,226,1.36,83.33
+954,Counter-Strike 2,PUBG Mobile World Cup 2024,SA,Vitality,Boombl4,24800005,4332392,13,2025,7,4,59,1.58,57.14
+955,League of Legends,PUBG Mobile World Cup 2024,MENA,Natus Vincere,Nisha,35745407,2668437,3,2025,5,1,83,1.55,20
+956,Dota 2,The International 2025,SA,100 Thieves,Aspas,35065197,4124792,12,2025,3,2,268,1.07,66.67
+957,PUBG Mobile,PUBG Mobile World Cup 2024,NA,Paper Rex,Keria,14106932,2816103,5,2023,3,1,292,0.94,33.33
+958,Fortnite,Fortnite FNCS Global Championship 2024,MENA,Natus Vincere,Faker,4403319,4233704,6,2023,4,2,110,1.43,50
+959,League of Legends,LoL Worlds 2025,MENA,Fnatic,Faker,21998466,2612352,12,2025,4,2,205,1.14,50
+960,Valorant,Valorant Champions 2024,NA,Team Spirit,Boombl4,29430952,3130723,13,2025,6,5,116,1.34,83.33
+961,Fortnite,Fortnite FNCS Global Championship 2025,EU,100 Thieves,Nisha,6810446,4297261,11,2023,3,2,274,1.48,66.67
+962,Valorant,BLAST Premier World Final 2024,MENA,Fnatic,Derke,19528617,2728119,8,2023,6,3,53,1.36,50
+963,Counter-Strike 2,Fortnite FNCS Global Championship 2025,MENA,Evil Geniuses,Sh1ro,26841533,3494675,14,2023,4,4,170,0.87,100
+964,Counter-Strike 2,Valorant Champions 2024,MENA,FaZe Clan,Leaf,25843297,4195235,6,2023,3,3,65,1.29,100
+965,PUBG Mobile,Fortnite FNCS Global Championship 2025,EU,Paper Rex,Nisha,5818732,2746371,5,2024,7,2,283,0.98,28.57
+966,League of Legends,The International 2025,SA,Paper Rex,Faker,21807354,3136272,11,2025,7,4,295,1.01,57.14
+967,Valorant,BLAST Premier World Final 2024,SA,Sentinels,ZywOo,38677292,444498,11,2023,4,3,268,1.06,75
+968,Counter-Strike 2,PUBG Mobile World Cup 2025,OCE,T1,Leaf,29209415,114115,9,2024,4,2,249,1.03,50
+969,Dota 2,Fortnite FNCS Global Championship 2024,ASIA,Cloud9,Faker,31989735,2671613,11,2024,3,1,264,1.38,33.33
+970,Valorant,The International 2025,NA,100 Thieves,Aspas,38473426,942076,8,2023,4,4,146,0.87,100
+971,Counter-Strike 2,BLAST Premier World Final 2025,NA,Natus Vincere,ShowMaker,33167641,3047273,12,2023,3,3,282,0.83,100
+972,Dota 2,BLAST Premier World Final 2024,SA,FaZe Clan,Boombl4,6186540,1013290,12,2024,5,1,218,0.99,20
+973,Counter-Strike 2,The International 2025,MENA,Team Liquid,b1t,37044469,3153723,6,2025,7,1,244,0.97,14.29
+974,Counter-Strike 2,PUBG Mobile World Cup 2024,SA,Cloud9,Derke,19339897,1274046,12,2025,6,5,264,1.55,83.33
+975,Fortnite,Valorant Champions 2025,OCE,Cloud9,b1t,31681624,1474101,13,2024,3,1,103,1.53,33.33
+976,Dota 2,Fortnite FNCS Global Championship 2024,ASIA,100 Thieves,NiKo,28182967,4136223,5,2023,4,2,107,0.89,50
+977,League of Legends,PUBG Mobile World Cup 2024,EU,T1,Keria,29198907,4483778,10,2023,3,1,100,1.44,33.33
+978,League of Legends,BLAST Premier World Final 2025,NA,Astralis,s1mple,22883002,3406260,14,2024,6,4,103,1.03,66.67
+979,Counter-Strike 2,The International 2025,MENA,Evil Geniuses,TenZ,10555418,324539,7,2023,4,4,185,1.25,100
+980,Fortnite,The International 2025,EU,Team Spirit,Faker,32051862,981612,14,2023,4,2,156,1.55,50
+981,League of Legends,BLAST Premier World Final 2024,EU,FaZe Clan,ZywOo,18700602,1817877,11,2023,7,1,110,1.29,14.29
+982,Dota 2,PUBG Mobile World Cup 2025,EU,Vitality,Keria,34201763,1554734,3,2023,7,6,296,1.14,85.71
+983,League of Legends,Fortnite FNCS Global Championship 2024,EU,Vitality,Derke,35945896,2936024,13,2025,4,3,242,1.19,75
+984,Counter-Strike 2,Fortnite FNCS Global Championship 2025,EU,G2 Esports,Ana,38459787,2756139,11,2024,4,3,197,1.3,75
+985,Fortnite,PUBG Mobile World Cup 2024,OCE,G2 Esports,Sh1ro,30002303,985318,4,2024,7,4,262,1.47,57.14
+986,Valorant,Valorant Champions 2024,SA,OG,Faker,9730414,4983695,11,2025,6,2,69,1.43,33.33
+987,PUBG Mobile,PUBG Mobile World Cup 2024,ASIA,Astralis,Leaf,15805672,3726705,3,2024,5,3,175,1.53,60
+988,Valorant,Fortnite FNCS Global Championship 2024,MENA,OG,Derke,23242795,79876,8,2024,7,7,83,1.51,100
+989,Fortnite,Valorant Champions 2024,EU,Vitality,Keria,9107560,4626844,12,2023,4,1,135,1.37,25
+990,Counter-Strike 2,The International 2024,ASIA,100 Thieves,Keria,24914519,2113448,7,2025,7,4,248,1.07,57.14
+991,Valorant,LoL Worlds 2024,OCE,100 Thieves,ShowMaker,6400578,4031640,8,2025,7,3,83,0.86,42.86
+992,PUBG Mobile,PUBG Mobile World Cup 2024,EU,T1,Faker,37117066,3797693,9,2024,5,2,284,0.85,40
+993,Counter-Strike 2,PUBG Mobile World Cup 2025,MENA,100 Thieves,Boombl4,5693498,4216096,9,2025,4,1,248,1.13,25
+994,PUBG Mobile,The International 2025,SA,Fnatic,b1t,28819246,2940930,14,2024,3,3,250,1.52,100
+995,PUBG Mobile,LoL Worlds 2024,SA,Paper Rex,s1mple,18545977,4333361,12,2025,7,4,208,1.05,57.14
+996,League of Legends,LoL Worlds 2024,EU,Astralis,Sh1ro,21128086,2620177,10,2023,3,2,283,1.29,66.67
+997,League of Legends,PUBG Mobile World Cup 2025,ASIA,Paper Rex,Boombl4,4363042,3228772,7,2025,7,2,186,1.02,28.57
+998,League of Legends,LoL Worlds 2024,MENA,Paper Rex,ZywOo,870372,2325274,10,2025,7,3,258,0.98,42.86
+999,Valorant,Fortnite FNCS Global Championship 2024,EU,Natus Vincere,Derke,20507322,4711180,8,2023,3,1,69,0.94,33.33
+1000,Valorant,Valorant Champions 2025,OCE,Evil Geniuses,ShowMaker,16701214,299775,13,2024,3,3,264,1.1,100
